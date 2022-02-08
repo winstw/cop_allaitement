@@ -2,7 +2,6 @@
 layout: default
 quizz: true
 --- 
-Ceci est un quizz
 <div class="quizdown">
 	---
 	primaryColor: steelblue
