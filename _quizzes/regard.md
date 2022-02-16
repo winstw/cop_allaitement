@@ -12,16 +12,16 @@ quizz: true
 
 	> Hint: Il est également possible d'insérer un indice
 	
-	- [ ] Pas du tout d'accord
+	1. [ ] Pas du tout d'accord
 	> Ici il est possible de donner un feedback spécifique à cette réponse
-	- [ ] Pas trop d'accord
-	- [x] D'accord
-	- [ ] Tout à fait d'accord
+	2. [ ] Pas trop d'accord
+	3. [x] D'accord
+	4. [ ] Tout à fait d'accord
 
 	### Je pourrais accepter le fait que l’allaitement puisse temporairement être un frein à ma liberté.
 
-	- [x] Pas du tout d'accord
-	- [ ] Pas trop d'accord
-	- [ ] D'accord
-	- [ ] Tout à fait d'accord
+	1. [x] Pas du tout d'accord
+	2. [ ] Pas trop d'accord
+	3. [ ] D'accord
+	4. [ ] Tout à fait d'accord
 </div>
