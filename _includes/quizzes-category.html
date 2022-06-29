@@ -1,0 +1,5 @@
+{%- for quizz in site.quizzes -%}
+{%- if quizz.categories contains include.category -%}
+{% include archive-single-quizz.html %}
+{%- endif -%}
+{%- endfor -%}

@@ -3,19 +3,36 @@ main:
     url: "/"
   - title: "Fiches"
     url: "/fiches/"
-  - title: "Auto-évaluation"
-    url: "/auto-evaluation"
+  - title: "Auto-évaluation et Quiz"
+    url: "/quizzes"
 
 # main links
 ligne:
   - title: "Fiches"
     children:
-      - title: "Naissance"
-        category: "naissance"
-        url: "/fiches/naissance/"
-      - title: "Retour au travail"
-        category: "travail"
-        url: "/fiches/travail/"
+      - title: "Pré"
+        category: "pre"
+        url: "/fiches/pre/"
+      - title: "Per"
+        category: "per"
+        url: "/fiches/per/"
+      - title: "Post-Partum"
+        category: "post"
+        url: "/fiches/post/"
+# main links
+quizz:
+  - title: "Quiz"
+    children:
+      - title: "Quiz prénatal"
+        category: "prenat"
+        url: "/quizzes/prenat/"
+      - title: "Après une semaine d'allaitement"
+        category: "semaine"
+        url: "/quizzes/semaine/"
+      - title: "Comment est-ce que je ressens mon allaitement ?"
+        category: "allaitement"
+        url: "/quizzes/allaitement/"
+        
 
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/

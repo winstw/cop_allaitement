@@ -1,8 +1,10 @@
 ---
-title: Auto-Evaluation
-layout: collection
-permalink: /auto-evaluation/
-collection: quizzes
-show_excerpts: false
+title: Auto-Evaluation et Quiz
+layout: archive
+permalink: /quizzes/
+entries_layout: grid
+sidebar:
+  nav: "quizz"
 ---
-Un ensemble de petits "quizzes" pour s'auto-évaluer et tenter de mieux se comprendre
+
+Un ensemble de petits “quiz” pour s’autoévaluer en prénatal et tout au long de l’allaitement pour mieux se comprendre.

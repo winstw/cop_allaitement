@@ -20,8 +20,8 @@ title_separator          : "-"
 subtitle                 : "Des ressources pour bien vivre mon allaitement"
 name                     : "Healthcop"
 description              : "Découvrez toutes nos ressources sur l'allaitement"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+# url                      : "http://localhost/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+# baseurl                  : "/~geof/mm-git/"# the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/mother_unsplash.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -149,6 +149,8 @@ footer:
       # url:
 
 
+      
+
 # Reading Files
 include:
   - .htaccess
@@ -243,6 +245,10 @@ whitelist:
   - jekyll-include-cache
 
 
+head_scripts:
+  - /assets/js/quizdown.js
+
+  
 # Archives
 #  Type
 #  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
@@ -301,16 +307,32 @@ defaults:
     values:
       layout: single
       author_profile: false
+      show_date: true
       read_time: true
       comments: # true
       share: false
       related: false
       sidebar:
         nav: "ligne"
+  - scope:
+      path: ""
+      type: quizzes
+    values:
+      layout: single
+      author_profile: false
+      show_date: true
+      read_time: true
+      comments: # true
+      share: false
+      related: false
+      sidebar:
+        nav: "quizz"
+        
       
 collections:
   quizzes:
     output: true
+    permalink: /:collection/:categories/:path    
   fiches:
     output: true
     permalink: /:collection/:categories/:path

@@ -1,8 +1,8 @@
 ---
 layout: fiches-category
-title: Naissance
-permalink: /fiches/naissance/
-categories: naissance
+title: Pre
+permalink: /fiches/pre/
+categories: pre
 entries_layout: grid
 sidebar:
   nav: "ligne"
