@@ -5,20 +5,36 @@ main:
     url: "/fiches/"
   - title: "Auto-évaluation et Quiz"
     url: "/quizzes"
+  - title: "Liens"
+    url: "/liens"
+  - title: "Feedback"
+    url: "/feedback"
 
 # main links
-ligne:
-  - title: "Fiches"
+parent:
+  - title: "Parent"
     children:
       - title: "Pré"
         category: "pre"
-        url: "/fiches/pre/"
+        url: "/parent/pre/"
       - title: "Per"
         category: "per"
-        url: "/fiches/per/"
+        url: "/parent/per/"
       - title: "Post-Partum"
         category: "post"
-        url: "/fiches/post/"
+        url: "/parent/post/"
+pro:
+  - title: "Professionnel"
+    children:
+      - title: "Pré"
+        category: "pre"
+        url: "/pro/pre/"
+      - title: "Per"
+        category: "per"
+        url: "/pro/per/"
+      - title: "Post-Partum"
+        category: "post"
+        url: "/pro/post/"
 # main links
 quizz:
   - title: "Quiz"
@@ -26,10 +42,10 @@ quizz:
       - title: "Quiz prénatal"
         category: "prenat"
         url: "/quizzes/prenat/"
-      - title: "Après une semaine d'allaitement"
+      - title: "Après une semaine"
         category: "semaine"
         url: "/quizzes/semaine/"
-      - title: "Comment est-ce que je ressens mon allaitement ?"
+      - title: "Mon ressenti"
         category: "allaitement"
         url: "/quizzes/allaitement/"
         

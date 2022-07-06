@@ -1,10 +1,11 @@
 ---
 layout: fiches-category
 title: Per
-permalink: /fiches/per/
+permalink: /parent/per/
 categories: per
 entries_layout: grid
 sidebar:
-  nav: "ligne"
+  nav: "parent"
+user: parent
 ---
 

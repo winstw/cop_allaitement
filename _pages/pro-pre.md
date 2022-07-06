@@ -1,10 +1,11 @@
 ---
 layout: fiches-category
 title: Pre
-permalink: /fiches/pre/
+permalink: /pro/pre/
 categories: pre
 entries_layout: grid
 sidebar:
-  nav: "ligne"
+  nav: "pro"
+user: pro
 ---
 

@@ -1,0 +1,5 @@
+{%- for fiche in site.pro -%}
+  {%- if fiche.categories contains include.category -%}
+    {% include archive-single-fiche.html %}
+  {%- endif -%}
+{%- endfor -%}

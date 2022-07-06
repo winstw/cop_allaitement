@@ -1,10 +1,11 @@
 ---
 layout: fiches-category
 title: Post-Partum
-permalink: /fiches/post/
+permalink: /pro/post/
 categories: post
 entries_layout: grid
 sidebar:
-  nav: "ligne"
+  nav: "pro"
+user: pro
 ---
 

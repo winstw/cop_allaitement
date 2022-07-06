@@ -5,8 +5,6 @@ entries_layout: grid
 header:
   image: /assets/images/breast_feeding_medium.jpg
   caption: "Photo by Jordan Whitt on Unsplash "
-#sidebar:
-#  nav: "ligne"
 ---
 
 Bienvenue,

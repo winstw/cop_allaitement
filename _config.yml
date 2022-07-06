@@ -217,14 +217,14 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
+# paginate: 5 # amount of posts to show
+# paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Outputting
 permalink: /:collection/:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
+# paginate: 5 # amount of posts to show
+# paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
@@ -300,7 +300,7 @@ defaults:
       share: false
       related: false
       sidebar:
-        nav: "ligne"
+        nav: "parent"
   - scope:
       path: ""
       type: fiches
@@ -313,7 +313,7 @@ defaults:
       share: false
       related: false
       sidebar:
-        nav: "ligne"
+        nav: "parent"
   - scope:
       path: ""
       type: quizzes
@@ -327,13 +327,48 @@ defaults:
       related: false
       sidebar:
         nav: "quizz"
+  # _pro
+  - scope:
+      path: ""
+      type: pro
+    values: 
+      layout: single
+      author_profile: false
+      show_date: true
+      read_time: true
+      comments: # true
+      share: false
+      related: false
+      sidebar:
+        nav: "pro"
+  # _parent
+  - scope:
+      path: ""
+      type: parent
+    values: 
+      layout: single
+      author_profile: false
+      show_date: true
+      read_time: true
+      comments: # true
+      share: false
+      related: false
+      sidebar:
+        nav: "parent"
+
         
-      
+
 collections:
   quizzes:
     output: true
-    permalink: /:collection/:categories/:path    
+    permalink: /:collection/:categories/:path
   fiches:
     output: true
     permalink: /:collection/:categories/:path
+  pro:
+    output: true
+    permalink: /:collection/:categories/:path/
+  parent:
+    output: true
+    permalink: /:collection/:categories/:path/
 
