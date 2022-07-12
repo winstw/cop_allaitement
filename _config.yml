@@ -362,9 +362,9 @@ collections:
   quizzes:
     output: true
     permalink: /:collection/:categories/:path
-  fiches:
-    output: true
-    permalink: /:collection/:categories/:path
+  # fiches:
+  #   output: true
+  #   permalink: /:collection/:categories/:path
   pro:
     output: true
     permalink: /:collection/:categories/:path/

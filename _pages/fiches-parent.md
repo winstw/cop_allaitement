@@ -7,4 +7,5 @@ sidebar:
   nav: "ligne"
 user: parent
 ---
-Des fiches explicatives pour les parents
+Des fiches explicatives pour les parents.
+

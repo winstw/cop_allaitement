@@ -20,7 +20,7 @@ parent:
       - title: "Per"
         category: "per"
         url: "/parent/per/"
-      - title: "Post-Partum"
+      - title: "Post"
         category: "post"
         url: "/parent/post/"
 pro:
@@ -32,7 +32,7 @@ pro:
       - title: "Per"
         category: "per"
         url: "/pro/per/"
-      - title: "Post-Partum"
+      - title: "Post"
         category: "post"
         url: "/pro/post/"
 # main links
