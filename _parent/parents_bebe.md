@@ -8,7 +8,7 @@ header:
 classes: wide
 ---
 
-![Mind map - Intervenants](/assets/images/parents_bebe_map.png)
+![Mind map - Intervenants]({{ site.url }}{{ site.baseurl }}/assets/images/parents_bebe_map.png)
 
 
 <table class="table_intervenants" cellspacing="0">

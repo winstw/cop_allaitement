@@ -38,7 +38,7 @@ Pour toute question : consultez votre sage-femme ou consultante en lactation
 ___ 
 ### Schéma de la contre pression
 
-![Contre pression](/assets/images/congestion1.png)
+![Contre pression]({{ site.url }}{{ site.baseurl }}/assets/images/congestion1.png)
 *[Source](https://www.lllfrance.org/vous-informer/fonds-documentaire/dossiers-de-l-allaitement/1377-da-53-assouplissement-par-contre-pression)*
 
 

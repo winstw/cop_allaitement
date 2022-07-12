@@ -29,7 +29,7 @@ header:
 ### Comment ?
 N’oubliez pas de vous laver les mains avant de commencer.
 
-![image](/assets/images/lait1.png)
+![image]({{ site.url }}{{ site.baseurl }}/assets/images/lait1.png)
 *[Radan. (2018). Le lait maternel, un aliment de premier choix. Actualités pharmaceutiques, 57(577), 42–45.](https://doi.org/10.1016/j.actpha.2018.04.009)*{: style="display:block;font-size:0.5em;"}
 
 
@@ -54,7 +54,7 @@ En fonction du but recherché, la fréquence et le temps de tirage varieront. Co
 Peut être utilisé en simple ou double pompage avec une téterelle adaptée à la taille du mamelon et de l’aréole. 
 
 
-![image](/assets/images/lait2.png)
+![image]({{ site.url }}{{ site.baseurl }}/assets/images/lait2.png)
 *[Source image](https://www.bol.com/be/fr/p/byer-electrique-double-2-tire-lait-sans-bpa-150-ml/9300000015759061/)*{: style="font-size:0.5em;display: block;"}
 
 Tirer son lait ne doit jamais être douloureux. 
@@ -69,7 +69,7 @@ Tout comme par l’expression manuelle, n’oubliez pas de vous laver les mains 
 ### Comment le conserver ?
 
 
-![image](/assets/images/conservation_lait_tableau.png)
+![image]({{ site.url }}{{ site.baseurl }}/assets/images/conservation_lait_tableau.png)
 
 On peut mélanger plusieurs tirages sur 24h quand le lait est à même température.
 Du lait décongelé ne peut jamais être recongelé. S’il est congelé pendant plusieurs mois, la couleur, l’odeur et l’aspect sont modifiés. Le lait peut être consommé. 

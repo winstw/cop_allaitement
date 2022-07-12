@@ -12,7 +12,7 @@ date: 11-07-2022
 
 L’arrivée de votre bébé dans vos vies va vous amener à découvrir un tout nouveau rôle : celui de parent. Chaque enfant étant unique, vous allez apprendre à communiquer avec lui, à comprendre les signaux qu’il vous envoie, à gérer ses pleurs et à répondre au mieux à ses besoins. Evidemment, cela ne se fera pas en un jour et cette découverte sera parsemée d’essais, d’erreurs parfois et de réussites souvent. Vous apprendrez à vous faire confiance pendant cette période d’intensité, vécue par l’ensemble des parents.
 	
-![image](/assets/images/parent1.png)
+![image]({{ site.url }}{{ site.baseurl }}/assets/images/parent1.png)
 *Jomard, N. (2017). Le petit grumeau illustré 3.*{: style="display:block;font-size:0.5em;"}
 
 
