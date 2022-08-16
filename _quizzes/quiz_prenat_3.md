@@ -1,5 +1,5 @@
----
-title: "Quiz 3 : Colostrum et alimentation efficace"
+renat---
+title: "Quiz prénatal 3 : Colostrum et alimentation efficace"
 layout: default
 quizz: true
 categories: prenat
@@ -10,6 +10,7 @@ categories: prenat
     shuffleQuestions: false
     shuffleAnswers: false
     directFeedback: true
+    title: "Quiz prénatal 3 : Colostrum et alimentation efficace"
     ---
     ### Le colostrum est difficile à digérer et doit être jeté
 	

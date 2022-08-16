@@ -1,7 +1,7 @@
 ---
 title:  "Expression, conservation du lait"
 categories: per
-user: parent
+user: pro
 date: 11-07-2022
 header:
   teaser: /assets/images/lait2.png
@@ -74,7 +74,6 @@ Tout comme par l’expression manuelle, n’oubliez pas de vous laver les mains 
 On peut mélanger plusieurs tirages sur 24h quand le lait est à même température.
 Du lait décongelé ne peut jamais être recongelé. S’il est congelé pendant plusieurs mois, la couleur, l’odeur et l’aspect sont modifiés. Le lait peut être consommé. 
 *Ne jamais interrompre la chaîne du froid.*
-
 
 ### Comment le réchauffer ?
 

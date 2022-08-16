@@ -1,5 +1,5 @@
 ---
-title: "Quiz 1 : Avantages pour bébé"
+title: "Quiz prénatal1 : Avantages pour bébé"
 layout: default
 quizz: true
 categories: prenat
@@ -11,7 +11,9 @@ categories: prenat
     shuffleQuestions: false
     shuffleAnswers: false
     directFeedback: true
-    ---
+    title: "Quiz prénatal1 : Avantages pour bébé"
+	---
+
     ### L’allaitement doit être instauré dans l’heure après l’accouchement
 
     1. [X] Vrai

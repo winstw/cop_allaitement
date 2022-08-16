@@ -46,8 +46,8 @@ quizz:
         category: "semaine"
         url: "/quizzes/semaine/"
       - title: "Mon ressenti"
-        category: "allaitement"
-        url: "/quizzes/allaitement/"
+        category: "ressenti"
+        url: "/quizzes/ressenti/"
         
 
   # - title: "About"

@@ -1,5 +1,5 @@
-	---
-title: "Regard sur mon allaitement : pour la maman"
+---
+title: "Autoévaluation après une semaine d'allaitement : pour la maman"
 layout: default
 quizz: true
 categories: semaine
@@ -15,6 +15,7 @@ Je me sens à l’aise pour :
     shuffleQuestions: false
     shuffleAnswers: true
     directFeedback: false
+    title: "Autoévaluation après une semaine d'allaitement : pour la maman"
     ---
     ### M'installer confortablement pour démarrer une tétée.
 
