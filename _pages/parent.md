@@ -11,7 +11,7 @@ Des fiches explicatives pour les parents
 
 Retrouvez les fiches classées par période : 
 
-- Pré: se préparer à allaiter
-- Per: durant l'allaitement
-- Post: comment effectuer la transition après l'allaitement
+- [Pré]({{ site.url }}{{ site.baseurl }}/parent/pre) : se préparer à allaiter
+- [Per]({{ site.url }}{{ site.baseurl }}/parent/per) : durant l'allaitement
+- [Post]({{ site.url }}{{ site.baseurl }}/parent/post) : comment effectuer la transition après l'allaitement
 
