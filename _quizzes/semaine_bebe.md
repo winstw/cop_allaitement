@@ -8,7 +8,7 @@ categories: semaine
     ---
     primaryColor: steelblue
     shuffleQuestions: false
-    shuffleAnswers: true
+    shuffleAnswers: false
     correctAnswer: false
     title: "Regard sur mon allaitement : pour le bébé"
     preQuestion: "Je me sens à l'aise pour reconnaître..."

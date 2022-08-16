@@ -1,5 +1,5 @@
 ---
-title: "Quiz prénatal1 : Avantages pour bébé"
+title: "Quiz prénatal 1: Avantages pour bébé"
 layout: default
 quizz: true
 categories: prenat
@@ -11,48 +11,58 @@ categories: prenat
     shuffleQuestions: false
     shuffleAnswers: false
     directFeedback: true
-    title: "Quiz prénatal1 : Avantages pour bébé"
+    title: "Quiz prénatal 1: Avantages pour bébé"
 	---
 
     ### L’allaitement doit être instauré dans l’heure après l’accouchement
 
     1. [X] Vrai
     2. [ ] Faux
+	> Plus le nouveau-né tète rapidement après sa naissance, plus les chances de réussite de l’allaitement sont grandes.
 
     ### Les bébés doivent être allaités pendant au moins 10 à 20 minutes
 
     1. [X] Vrai
     2. [ ] Faux
+	> Aucune restriction de temps ni de fréquence avec un minimum de 8 tétées par 24h.
 
     ### Les éructations (rots) montrent que le bébé est rassasié
 
     1. [X] Vrai
     2. [ ] Faux
+	> Le bébé allaité ne fait pas forcément de rot comme le bébé nourri au biberon.
 
     ### Les bébés qui sont suffisamment nourris urinent plus fréquemment
 
     1. [X] Vrai
     2. [ ] Faux
+	> A partir d’1 semaine de vie le bébé doit uriner en moyenne 6x/24h.
 
     ### Le lait maternel est plus facilement digéré que le lait artificiel
 
     1. [X] Vrai
     2. [ ] Faux
+	> Le lait maternel est digéré en 40-45 minutes tandis que le lait de formule en environ 2h.
 
     ### Le lait artificiel est aussi sain pour un nourrisson que le lait maternel
 
     1. [X] Vrai
     2. [ ] Faux
+	> Le lait maternel contient des anticorps et pas les préparations pour nourrissons.
+
 
     ### L’allaitement est plus pratique que la préparation pour nourrisson
 
     1. [X] Vrai
     2. [ ] Faux
+	> Le sein est toujours prêt à l’emploi peu importe où l’on se trouve. A bonne température, rien à laver....
+
 
     ### Un bébé allaité est moins sujet à la diarrhée 
 
     1. [X] Vrai
     2. [ ] Faux
+	> Les selles du bébé allaiter sont toujours liquides avec des grumeaux, ce n’est pas de la diarrhée. Le bébé allaité reçoit les anticorps maternels et est donc mieux immunisé contre les microbes.
 
     ### Un bébé doit recevoir de l’eau après chaque tétée 
 

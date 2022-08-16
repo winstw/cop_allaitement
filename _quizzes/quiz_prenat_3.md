@@ -1,5 +1,5 @@
-renat---
-title: "Quiz prénatal 3 : Colostrum et alimentation efficace"
+---
+title: "Quiz prénatal 3: Colostrum et alimentation efficace"
 layout: default
 quizz: true
 categories: prenat
@@ -10,7 +10,7 @@ categories: prenat
     shuffleQuestions: false
     shuffleAnswers: false
     directFeedback: true
-    title: "Quiz prénatal 3 : Colostrum et alimentation efficace"
+    title: "Quiz prénatal 3: Colostrum et alimentation efficace"
     ---
     ### Le colostrum est difficile à digérer et doit être jeté
 	
@@ -22,7 +22,8 @@ categories: prenat
 	
     1. [ ] Vrai
     2. [X] Faux
-	> Au contraire, il contient des micronutriments(vitamines , minéraux) qui sont laxatives et qui permettent donc l’élimination du méconium
+	> Au contraire, il contient des micronutriments(vitamines , minéraux) qui sont laxatives et qui permettent donc l’élimination du méconium. Il est moins moins riche en sels minéraux, le bébé va perdre moins d’eau durant cette période où son rein est immature
+
 
     ### Le colostrum prévient la déshydratation du bébé
 	
@@ -60,5 +61,4 @@ categories: prenat
 	> Un bébé allaité double son poids de naissance à 3-4 mois et 2,5 à 3 fois à un an
     2. [ ] Faux
 
-	
 </div>

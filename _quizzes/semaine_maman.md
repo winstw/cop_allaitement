@@ -13,7 +13,7 @@ Je me sens à l’aise pour :
     ---
     primaryColor: steelblue
     shuffleQuestions: false
-    shuffleAnswers: true
+	shuffleAnswers: false
     directFeedback: false
     title: "Autoévaluation après une semaine d'allaitement : pour la maman"
     ---
