@@ -10,8 +10,12 @@ categories: ressenti
     shuffleQuestions: false
     shuffleAnswers: true
     correctAnswer: false
-    title: "Comment est-ce que je ressens mon accouchement ?"
+    title: "Comment est-ce que je ressens mon allaitement ?"
     preQuestion: "Je peux toujours..."
+    score:
+        30: vous ne semblez pas très confiante. Il serait préférable de consulter un professionnel de l’allaitement pour en discuter.
+        45: bien que vous soyez à l’aise avec certains points, d’autres restent difficiles, n’hésitez pas à en parler si vous en ressentez le besoin.
+        60: super, vous semblez tout à fait à l’aise.
     ---
     ### Tenir mon bébé confortablement pendant l'allaitement
     1. [ ] Pas confiante

@@ -13,9 +13,14 @@ Je me sens à l’aise pour :
     ---
     primaryColor: steelblue
     shuffleQuestions: false
-	shuffleAnswers: false
+    shuffleAnswers: false
     directFeedback: false
+    correctAnswer: false
     title: "Autoévaluation après une semaine d'allaitement : pour la maman"
+    score:
+        29: Vous ne semblez pas à l’aise. Il serait préférable de consulter un professionnel de l’allaitement pour en discuter.
+        43: Bien que vous soyez à l’aise avec certains points, d’autres restent difficiles, n’hésitez pas à en parler si vous en ressentez le besoin.
+        56: Super, vous semblez tout à fait à l’aise.
     ---
     ### M'installer confortablement pour démarrer une tétée.
 

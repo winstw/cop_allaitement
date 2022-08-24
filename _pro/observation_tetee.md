@@ -4,6 +4,7 @@ categories: [per,post]
 user: pro
 date: 09-08-2022
 header:
+  teaser: /assets/images/observation_tetee.png
 ---
 Nous vous recommandons de consulter une conseillère en lactation :
 - si vous observez un seul des points dans la colonne <em class="text-yellow">“Inquiétant”</em>.

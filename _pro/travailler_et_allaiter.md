@@ -5,6 +5,7 @@ user: pro
 date: 09-08-2022
 classes: wide
 header:
+  teaser: /assets/images/travail-teaser.png
 ---
 ## 1 Introduction
 La reprise du travail n’est pas synonyme d’arrêt de lactation. Mais par contre y réfléchir et en discuter au préalable permet une reprise du travail plus sereine. 
@@ -113,18 +114,11 @@ La bonne réponse est la B  Bravo, la température du congélateur doit être à
 Les bonnes réponses sont A-C-D-E. Il recevra du lait maternel apporté par sa maman soit au biberon, soit au gobelet en lapant le lait, soit à la cuillère suivant qu’il présente des difficultés pour l’une ou l’autre méthode. Il est trop jeune pour prendre une alimentation diversifiée (pas avant 4 mois mais pas plus tard que 6 mois). Si la maman a opté pour la continuité du lait maternel, il ne doit pas recevoir du lait maternisé. Ne pas forcer l’enfant, il n’est pas obligé d’être nourri durant sa période d’accueil, il a peut-être pris une longue tétée, avant d’arriver en milieu d’accueil. Il en prend d’autres à son retour à la maison, et se réveillera de nouveau la nuit, si besoin. Les signes de pleurs, ne signifient pas signes de faim, il a parfois besoin d’être porté, balancé, bercé, massé avec l’aide du doudou imprégné de l’odeur de sa maman qu’elle a porté contre sa poitrine. S’il a faim, il a le réflexe de fouissement , il fait des bruits de lèvres, il suce ses doigts. 
 
 ## Références :
-- Cofam : concilier allaitement et travail d’un enfant en bonne santé 2014
-- Allaiter et travailler dépliant [www info-allaitement.org](www info-allaitement.org) 2019
-- [https://www.lllfrance.org/vous-informer/des-etudes/1390](https://www.lllfrance.org/vous-informer/des-etudes/1390) sur la conservation du lait humain et ses propriétés.
-- ABM clinical protocol n°8Human milk storage information for home use for full-term infants,revised 2017 Breastfeed Med 2017 :12(7) :390-(
-- Jane Morton: “Vérifier l’attachement : exprimer le lait dès la première heure” : [https://www.youtube.com/watch?v=D75fONIhlCY](https://www.youtube.com/watch?v=D75fONIhlCY )
-- Ministère des Affaires sociales et de la Santé français "Comment bien recueillir, conserver et transporter le lait maternel en toute sécurité" [http://solidaritessante.gouv.fr/IMG/pdf/Depliant_lait_maternel_2013.pdf](http://solidaritessante.gouv.fr/IMG/pdf/Depliant_lait_maternel_2013.pdf)
-- [Protocole de l'Academy Medecine breastfeeding](https://abm.memberclicks.net/assets/DOCUMENTS/PROTOCOLS/8-human-milk-storage-protocol-english.pdf)
-- Tire lait état des lieux 2019 K Moreau Conseillère en lactation 
-- Du sein à la fourchette formation de 6 jours au Fraje. [Pour pdfinscription](https://www.fraje.be/du-sein-a-la-fourchette).
-- Fiche Expression et Conservation du lait.
-- Protocole clinique #14 de l’Academy of Breastfeeding Medicine pour un local du milieu d’accueil « Ami de l’Allaitement »
-- Les salles d’allaitement: [guide pour les employeurs 2020](https://www.unicef.org/media/73206/file/Breastfeeding-room-guide.pdf)
-- [https://www.onem.be/fr/documentation/feuille-info/t19#h2_5](https://www.onem.be/fr/documentation/feuille-info/t19#h2_5)
-- [https://www.belgium.be/fr/emploi/conges_et_interruption_de_carriere/conge_de_maternite_et_pauses_d’allaitement](https://www.belgium.be/fr/emploi/conges_et_interruption_de_carriere/conge_de_maternite_et_pauses_d’allaitement)
-- CSC : pauses d’allaitement fiche pratique n°6 quand passent les cigognes
+- [Dépliant de l’ONE](https://www.one.be/public/detailarticle/news/travailler-et-allaiter-c-est-possible/)
+- [Conservation du lait humain et ses propriétés](https://www.lllfrance.org/vous-informer/des-etudes/1390)
+- [Tire-lait : état des lieux réalisé par Katelijne Moreau, conseillère en lactation en 2019](https://docs.google.com/document/d/1-A3nEO5JV-1xuk5SS8xAaR_OVVwASG1rSE8fejcjM94/edit?usp=sharing)
+- [Du sein à la fourchette formation de 6 jours au Fraje](https://www.fraje.be/du-sein-a-la-fourchette)
+- [Les salles d’allaitement: guide pour les employeurs](https://www.unicef.org/media/73206/file/Breastfeeding-room-guide.pdf)
+- [ONEM : Feuille-info](https://www.onem.be/fr/documentation/feuille-info/t19#h2_5)
+- [CSC : pauses d’allaitement (secteur privé)](https://www.lacsc.be/vos-droits/travailler-dans-le-secteur-prive/maternite-naissance-et-adoption-et-soins-d-accueil/cong%C3%A9-et-pause-d%27allaitement)
+- [CSC : allaitement fiche pour les enseignants](https://www.lacsc.be/csc-enseignement/publications/fiches-pratiques/fp06-maternite)

@@ -14,7 +14,7 @@ Il est possible et parfois nécessaire de stimuler la lactation à différents m
 
 ### Objectifs : 
 - Apprivoiser le contact avec les seins et prendre confiance
--   ◦ Atteindre plus rapidement la montée de lait après la naissance
+- Atteindre plus rapidement la montée de lait après la naissance
 - Récolter du colostrum
 - Peut favoriser une meilleure production de lait
 
@@ -45,4 +45,4 @@ ___
 À chaque étape, l’utilisation du tire-lait électrique double pompage peut s’avérer utile, mais faites-vous conseiller par une consultante en lactation pour une utilisation adéquate.
 
 ![Téterelle]({{ site.url }}{{ site.baseurl }}/assets/images/stimuler.png)
-*[Source](http://sulivanneb.wixsite.com/lifeandfoodies/single-post/2017/11/07/Avoir-la-bonne-taille-de-t%C3%A9terelle-pour-mon-tire-lait)*
+*[Source](https://blog.mon-materiel-medical-en-pharmacie.fr/content/28-comment-choisir-la-taille-de-ma-teterelle)*

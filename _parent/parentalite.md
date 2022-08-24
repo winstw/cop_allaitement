@@ -62,5 +62,9 @@ consultez la fiche “Intervenants autour de la naissance”.*
 Pour aller plus loin :
 - “Parents futés, bébé ravi” d’Ingrid Bayot
 - “La naissance d’un père” d’Alexandre Lacroix, édition Allary, 2020
-- http://www.ingridbayot.com/matriel-pdagogique
-- [Nos liens utiles](/liens)
+- [http://www.ingridbayot.com/matriel-pdagogique](http://www.ingridbayot.com/matriel-pdagogique)
+- [https://www.infor-allaitement.be/](https://www.infor-allaitement.be/)
+- [https://lllbelgique.org/](https://lllbelgique.org/)
+- [https://www.yapaka.be/](https://www.yapaka.be/)
+- [https://www.laligue.be/leligueur/le-ligueur](https://www.laligue.be/leligueur/le-ligueur)
+- [https://www.one.be/public/](https://www.one.be/public/)

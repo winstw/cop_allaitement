@@ -8,7 +8,7 @@ header:
   teaser: /assets/images/bonne_tetee_1.png
 ---
 
-![image]({{ site.url }}{{ site.baseurl }}/assets/images/bonne_tetee_1.png)
+![image]({{ site.url }}{{ site.baseurl }}/assets/images/bonne_tetee_1.png){: style="width:80%"}
 *[Source](https://www.health.belgium.be/sites/default/files/uploads/fields/fpshealththemefile/brocsstexbrcfam.pdf)*{: style="display:block;font-size:0.5em;"}
 
 # Quelques pistes utiles pour assurer :
@@ -209,14 +209,14 @@ header:
 - S’assurer que la lèvre inférieure est retroussée 
 - Vérifier que le menton est enfoncé dans le sein 
 
-![image]({{ site.url }}{{ site.baseurl }}/assets/images/bonne_tetee_3.png)
+![image]({{ site.url }}{{ site.baseurl }}/assets/images/bonne_tetee_3.png){: style="width:80%"}
 
-![image]({{ site.url }}{{ site.baseurl }}/assets/images/bonne_tetee_4.gif)
+![image]({{ site.url }}{{ site.baseurl }}/assets/images/bonne_tetee_4.gif){: style="width:80%"}
 
 **Pour visualiser la mise au sein** : [Global Health Media](https://globalhealthmedia.org/videos/videos-french/)
 (vidéo « L'allaitement maternel et la bonne prise de sein »)
 
-![image]({{ site.url }}{{ site.baseurl }}/assets/images/bonne_tetee_5.png)
+![image]({{ site.url }}{{ site.baseurl }}/assets/images/bonne_tetee_5.png){: style="width:80%"}
 
 ## Préparation de la maman à la tétée 
 

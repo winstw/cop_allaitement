@@ -7,7 +7,7 @@ main:
     url: "/quizzes"
   - title: "Liens"
     url: "/liens"
-  - title: "Feedback"
+  - title: "Votre avis"
     url: "/feedback"
 
 # main links
@@ -48,6 +48,10 @@ quizz:
       - title: "Mon ressenti"
         category: "ressenti"
         url: "/quizzes/ressenti/"
+      - title: "Travailler et allaiter"
+        category: "travailler"
+        url: "/quizzes/travailler/"
+        
         
 
   # - title: "About"

@@ -16,7 +16,7 @@ serait obligatoirement progressif et non brutal. Un bébé se sèvre naturelleme
 déshabituant progressivement du sein, pas du jour au lendemain et surtout jamais de manière
 aussi “violente”.
 
-![Refus du sein]({{ site.url }}{{ site.baseurl }}/assets/images/greve.png)
+![Refus du sein]({{ site.url }}{{ site.baseurl }}/assets/images/greve.png){: style="width:60%;"}
 *Source image: [lllfrance](https://www.lllfrance.org/vous-informer/votre-allaitement/surmonter-les-obstacles/895-le-bebe-qui-refuse-de-teter)*{: style="display:block;font-size:0.5em;"}
 
 Elle a différentes origines, il faut essayer d’en identifier les causes.

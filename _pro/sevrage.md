@@ -4,6 +4,7 @@ categories: post
 user: pro
 date: 09-08-2022
 header:
+  teaser: /assets/images/sevrage-teaser.png
 ---
 
 > "Un allaitement est trop long à partir du moment où il ne convient plus à la maman et/ou à l’enfant"

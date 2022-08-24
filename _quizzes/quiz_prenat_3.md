@@ -16,25 +16,24 @@ categories: prenat
 	
     1. [ ] Vrai
     2. [X] Faux
-	> Il contient des protéines mais peu de caséines, il est donc digéré plus facilement
+	> La composition du colostrum le rend extrêmement digeste. Il est essentiel au fonctionnement du tube digestif. 
 
     ### Le colostrum provoque la constipation chez le bébé
 	
     1. [ ] Vrai
     2. [X] Faux
-	> Au contraire, il contient des micronutriments(vitamines , minéraux) qui sont laxatives et qui permettent donc l’élimination du méconium. Il est moins moins riche en sels minéraux, le bébé va perdre moins d’eau durant cette période où son rein est immature
-
+	> Au contraire, il contient des micronutriments(vitamines , minéraux) qui sont laxatifs et qui permettent donc l’élimination du méconium.
 
     ### Le colostrum prévient la déshydratation du bébé
 	
     1. [X] Vrai
-	> Il est moins moins riche en sels minéraux , le bébé va perdre moins d’eau durant cette période où son rein est immature
+	> Il est moins riche en sels minéraux, mais il est plus salé. Donc, le bébé va perdre moins d’eau et de poids durant cette période où son rein est immature.
     2. [ ] Faux
 
     ### Le colostrum prévient l’hypoglycémie du bébé
 	
     1. [X] Vrai
-	> Le colostrum stabilise la glycémie, si le bébé boit le lait dans l’heure et de façon fréquente car le colostrum est en petite quantité. Pour les bébés à risque il faut surveiller la glycémie régulièrement à la naissance jusqu’à sa stabilisation
+	> Le colostrum stabilise la glycémie si le bébé boit le lait dans l’heure  qui suit sa naissance et de façon fréquente car le colostrum est produit en petite quantité. 
     2. [ ] Faux
 
     ### Le colostrum est nécessaire pour le fonctionnement du cerveau
@@ -46,19 +45,14 @@ categories: prenat
     ### Le colostrum est indispensable pour le bébé prématuré
 	
     1. [X] Vrai
-	> Car il est plus riche en protéines et en acides gras polyinsaturés indispensable pour prévenir les infections néonatales sévères
+	> Le colostrum est spécifique et adapté aux besoins particuliers du bébé né prématurément. Il réduit de 60% les infections intestinales néonatales sévères.
     2. [ ] Faux
 
     ### Une position correcte permet une alimentation efficace
 	
     1. [X] Vrai
-	> Position confortable, au début position semi allongée(*biological nurturing*, bébé face à sa mère ventre contre elle, la bouche doit prendre largement l’aréole)
+	> En partie, une position correcte va faciliter la prise du sein et donc le transfert de lait à l’enfant.  
     2. [ ] Faux
 
-    ### Le bébé prendra régulièrement du poids s’il reçoit une alimentation efficace
-	
-    1. [X] Vrai
-	> Un bébé allaité double son poids de naissance à 3-4 mois et 2,5 à 3 fois à un an
-    2. [ ] Faux
 
 </div>

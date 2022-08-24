@@ -1,91 +1,11 @@
 ---
 title:  "Journal de Bord"
-categories: pre
+categories: post
 user: parent
 date: 09-08-2022
 header:
   teaser: /assets/images/journal1.png
 ---
-## J-270 mes seins gonflent : qu’est-ce qui m’arrive ?
-La fécondation a eu lieu. Je ne le sais peut-être pas encore,
-mais mon corps oui ! Et mes seins se préparent à nourrir
-mon bébé.
-## Pourquoi allaiter ?
-C’est l’alimentation adaptée à nos petits.
-
-![]({{ site.url }}{{ site.baseurl }}/assets/images/journal1.png)
-
-
-### Questions fréquentes
-#### Fiction ou réalité ?
-
-*Si vous vous posez ces questions ou d’autres durant votre
-grossesse, la sage-femme ou la consultante en lactation
-peut en parler avec vous lors de consultations prénatales
-ou des préparations à la naissance.*
-
-Renseignez-vous !
-
-- Je reprends le travail rapidement, est-ce que ça vaut la
-peine de commencer à allaiter ?
-- Je ne supporte pas qu’on touche mes seins, est-ce que je
-vais pouvoir allaiter ?
-- J’ai eu une opération aux seins (cancer, réduction
-mammaire, prothèse, ...), est-ce que je vais pouvoir
-allaiter ?
-- J’attends des jumeaux, est-ce que je pourrais les allaiter ?
-- Mon amie m’a dit que ça faisait très mal, c’est vrai ?
-- Je suis pudique et je ne veux pas allaiter en public,
-comment faire ?
-- Peut-on manger et boire de tout quand on allaite ?
-- Puis-je prendre un médicament lorsque j’allaite ?
-- Je veux adopter un enfant, est-ce que je peux l’allaiter ?
-- Je suis enceinte, j’allaite encore mon ainé, est-ce que je
-peux continuer ?
-- Fumer et allaiter, est-ce compatible ?
-- Je ne perds pas de lait pendant ma grossesse : je n’aurai
-pas de lait pour mon bébé ?
-- Ma maman n’a pas su allaiter, cela veut dire que je ne
-pourrais pas le faire non plus ?
-- Mon lait n’était pas assez riche, j’ai dû arrêter d’allaiter
-mon premier enfant. Ce sera pareil pour le deuxième ?
-- J’ai des trop petits seins, je ne saurais pas allaiter ?
-- Qu’est-ce que je peux faire pendant la grossesse pour
-préparer les seins et l’allaitement ?
-- Je perds du lait pendant la grossesse, qu’est-ce que je
-fais ?
-- Que me propose ma mutuelle comme matériel, prime, ...?
-
-## Préparation des seins ?
-À partir de 36 semaines, s’il n’y a pas de menace d’accouchement prématuré, il est possible de stimuler sa poitrine en vue de préparer les seins à leur future fonction.
-Parlez-en à une consultante en lactation.
-
-## Mon bébé est né
-
-### Peau à peau
-![Peau à peau]({{ site.url }}{{ site.baseurl }}/assets/images/journal2.png)
-
-*Proto regard* : c’est le tout premier regard du bébé, il cherche une rencontre, des repères, il pousse parfois des petits cris jusqu’au moment où il croise son et/ou ses parents. 
-
-
-C’est la première étape vers la mise au sein.
-
-### Première mise au sein
-#### Signes qu’il est prêt à téter
-
-Cf. fiche « Une bonne tétée, c'est quoi ? »
-
-####  Particularités des 48 premières heures
-Les seins ne changent pas de volume. Cependant, ils produisent de quoi satisfaire les premiers besoins du bébé.
-Les mamelons sont souvent sensibles en début d’allaitement ; une bonne prise du sein peut limiter ce désagrément et prévenir des crevasses. 
-
-Appelez la sage-femme lors des tétées. L’allaitement, comme toute nouvelle activité, est un apprentissage qui demande un temps d’adaptation.
-
-Après une première tétée qui peut être longue, le bébé est en phase de récupération et d’adaptation. Il faudra cependant veiller à des apports réguliers de colostrum soit par une mise au sein soit par l’expression manuelle de colostrum. Après une période calme de récupération, le bébé devient beaucoup plus actif, réclame de nombreuses tétées et s’apaise en peau à peau contre sa maman.
-
-#### Gestion de la congestion 
-
-Cf. fiche 2 « La congestion ».
 
 ## Retour à domicile
 Les moments d’allaitement sont des moments privilégiés pour les échanges avec votre bébé et pour vous reposer. Toutes les petites mains extérieures sont les bienvenues : repas, repassage, entretien maison, courses, etc.
@@ -140,9 +60,7 @@ Le repas fait partie des rites sociaux et est un moment de partage avec la famil
 ## Sources 
 - Recommandations :
    - [OMS](https://www.who.int/health-topics/breastfeeding#tab=tab_1)
-   - [UNICEF](https://www.unicef.org/french/nutrition/index_breastfeeding.html )
-- Brochures ONE :
-   - [http://www.one.be/parents/publications-parents/?tt_products%5Bbegin_at%5D=0](http://www.one.be/parents/publications-parents/?tt_products%5Bbegin_at%5D=0)
+   - [UNICEF](https://www.unicef.org/fr/rechercher?force=0&query=nutrition&created%5Bmin%5D=&created%5Bmax%5D=&f%5B0%5D=global_terms%3Ab9150d7e-758b-47fa-a5a5-68b7d5ca2b8c)
    - [Guide d'allaitement maternel à l'usage des professionnels](https://www.one.be/professionnel/brochuredetailpro/brochure/guide-dallaitement-maternel-a-lusage-des-professionnels/ )
 
 - Autres liens intéressants :

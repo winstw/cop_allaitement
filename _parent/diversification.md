@@ -3,6 +3,8 @@ title:  "Diversification alimentaire"
 categories: post
 user: parent
 date: 11-07-2022
+header:
+  teaser: /assets/images/diversification_teaser.png
 ---
 
 C’est une période durant laquelle l’allaitement maternel exclusif à la demande est suivi par l’introduction progressive d’aliments divers. Pas vraiment de tout repos, mais de toutes les couleurs!
@@ -50,17 +52,14 @@ Le lait maternel (600 à 800 ml) suffit comme apport liquide durant la journée,
 Une consultante en lactation reste disponible pour vous accompagner lors de cette période.
 
 Voici quelques exemples de tableaux de diversification alimentaire (types d’aliments, quantités et nombre de repas par jour) :
-- [Saint-luc - page 19 (lien cassé)](https://www.saintluc.be/hospitalisation/petit-pierre-mange-de-bon-coeur.pdf)
-- [CHC (lien cassé)](https://learning.chc.be/images/stories/outils/diversification_alimentaire/story_html5.html)
-- [Manger-bouger (lien cassé)](https://www.mangerbouger.fr/content/download/3978/114448/version/2/file/Tableau+Diversification.pdf)
-
+- [Saint-luc - page 19](https://www.saintluc.be/sites/default/files/2020-09/petit-pierre-mange-de-bon-coeur.pdf )
+- [https://www.etmamantudeviendras.com/2019/02/03/diversification-alimentaire-bebe/](https://www.etmamantudeviendras.com/2019/02/03/diversification-alimentaire-bebe/)
 
 Références: 
 - [http://www.santeallaitementmaternel.com](http://www.santeallaitementmaternel.com)
-- Politique nationale nutrition santé (PNNS) 2017-2021; promouvoir l’allaitement maternel
-- Les bébés à table
-- [www.mongeneraliste.be](www.mongeneraliste.be)
-- L’allaitement maternel; alimentation de 0 à 18 mois et +
-- [ONE (lien cassé)](https://www.one.be/fileadmin/user_upload/siteone/PARENTS/Brochures/Nouveaux-aliments-diversification.pdf)
+- [Politique nationale nutrition santé (PNNS) 2017-2021; promouvoir l’allaitement maternel](https://www.mpedia.fr/art-tableau-diversification/)
+- [Les bébés à table](https://www.mongeneraliste.be/veiller-a-sa-sante/alimentation/alimentation-les-bebes-a-table/)
+- - L’allaitement maternel; alimentation de 0 à 18 mois et +
+- [ONE](https://www.one.be/fileadmin/user_upload/siteone/PARENTS/Brochures/Nouveaux-aliments-diversification.pdf )
 - [https://bebemangeseul.com/2019/07/26/aliments-securitaires-pour-les-6-9-mois-2/](https://bebemangeseul.com/2019/07/26/aliments-securitaires-pour-les-6-9-mois-2/ )
 - [https://tvcrecer.com/familia/la-mesa-un-lugar-de-encuentro/](https://tvcrecer.com/familia/la-mesa-un-lugar-de-encuentro/)
