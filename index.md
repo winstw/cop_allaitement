@@ -18,3 +18,7 @@ Les outils proposés (fiches, quiz, autoévaluations...) ont été réalisés da
 
 
 L’ensemble des supports sont conçus pour faciliter les échanges, la communication entre les professionnel(le)s et les parents.
+
+
+
+![image]({{ site.url }}{{ site.baseurl }}/assets/images/logos.png){: style="width:100%; margin-top:6em;"}
