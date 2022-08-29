@@ -213,8 +213,7 @@ header:
 
 ![image]({{ site.url }}{{ site.baseurl }}/assets/images/bonne_tetee_4.gif){: style="width:80%"}
 
-**Pour visualiser la mise au sein** : [Global Health Media](https://globalhealthmedia.org/videos/videos-french/)
-(vidéo « L'allaitement maternel et la bonne prise de sein »)
+**Pour visualiser la mise au sein** : [GLOBAL HEALTH MEDIA PROJECT : Vidéo "L'allaitement maternel et la bonne prise de sein"](https://drive.google.com/file/d/12EHHH5Zi5Em2Vmw-Ag5K9mXRYNGgP8y3/view?usp=sharing)
 
 ![image]({{ site.url }}{{ site.baseurl }}/assets/images/bonne_tetee_5.png){: style="width:80%"}
 

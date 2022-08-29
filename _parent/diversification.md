@@ -54,12 +54,12 @@ Une consultante en lactation reste disponible pour vous accompagner lors de cett
 Voici quelques exemples de tableaux de diversification alimentaire (types d’aliments, quantités et nombre de repas par jour) :
 - [Saint-luc - page 19](https://www.saintluc.be/sites/default/files/2020-09/petit-pierre-mange-de-bon-coeur.pdf )
 - [https://www.etmamantudeviendras.com/2019/02/03/diversification-alimentaire-bebe/](https://www.etmamantudeviendras.com/2019/02/03/diversification-alimentaire-bebe/)
+- [Tableau : La diversification alimentaire jusqu'à 3 ans - mangerbouger.fr](https://drive.google.com/file/d/10z9U-4MWxQz8_FUcJvuBdgQfemTcP5jY/view?usp=sharing)
 
 Références: 
 - [http://www.santeallaitementmaternel.com](http://www.santeallaitementmaternel.com)
-- [Politique nationale nutrition santé (PNNS) 2017-2021; promouvoir l’allaitement maternel](https://www.mpedia.fr/art-tableau-diversification/)
+- [Politique nationale nutrition santé (PNNS) 2017-2021 : promouvoir l’allaitement maternel](https://www.mpedia.fr/art-tableau-diversification/)
 - [Les bébés à table](https://www.mongeneraliste.be/veiller-a-sa-sante/alimentation/alimentation-les-bebes-a-table/)
-- - L’allaitement maternel; alimentation de 0 à 18 mois et +
-- [ONE](https://www.one.be/fileadmin/user_upload/siteone/PARENTS/Brochures/Nouveaux-aliments-diversification.pdf )
-- [https://bebemangeseul.com/2019/07/26/aliments-securitaires-pour-les-6-9-mois-2/](https://bebemangeseul.com/2019/07/26/aliments-securitaires-pour-les-6-9-mois-2/ )
-- [https://tvcrecer.com/familia/la-mesa-un-lugar-de-encuentro/](https://tvcrecer.com/familia/la-mesa-un-lugar-de-encuentro/)
+- [Brochure ONE - De nouveaux aliments en douceur...](https://www.one.be/fileadmin/user_upload/siteone/PARENTS/Brochures/de-nouveaux-aliments-en-douceur-web.pdf)
+- [La DME](https://bebemangeseul.com/2019/07/26/aliments-securitaires-pour-les-6-9-mois-2/ )
+
