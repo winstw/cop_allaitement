@@ -3,6 +3,8 @@ title: "Travailler et allaiter"
 layout: default
 quizz: true
 categories: travailler
+header:
+  teaser: /assets/images/quizz/quizz_travailler_allaiter.jpg
 --- 
 <div class="quizdown">
     ---
@@ -13,15 +15,15 @@ categories: travailler
     directFeedback: true
     ---
 
-    ### Une maman se présente à la consultation, elle souhaiterait continuer d’allaiter en reprenant le travail ? Quels conseils allez-vous lui donnez ?
-    - [ ] Continuer à allaiter en travaillant est fatiguant, de plus votre enfant n’aura vite plus assez de lait.
-    - [X] Il faut vous préparer avant de faire des réserves de lait, allez voir un professionnel qui pourra vous aider.
-    - [X] Vous êtes-vous renseignée si vous avez droit à des congés d’allaitement ?
-	> Les réponses B et C sont les bonnes BRAVO. Les mères peuvent continuer à allaiter en reprenant le travail mais cela se prépare avant. Il est également judicieux de se renseigner sur ce qui est permis : congés et pauses d’allaitement.
+   ### Une maman se présente à la consultation, elle souhaiterait continuer d’allaiter en reprenant le travail ? Quels conseils allez-vous lui donnez ?
+   - [ ] Continuer à allaiter en travaillant est fatiguant, de plus votre enfant n’aura vite plus assez de lait.
+   - [X] Il faut vous préparer avant de faire des réserves de lait, allez voir un professionnel qui pourra vous aider.
+   - [X] Vous êtes-vous renseignée si vous avez droit à des congés d’allaitement ?
+   > Les réponses B et C sont les bonnes BRAVO. Les mères peuvent continuer à allaiter en reprenant le travail mais cela se prépare avant. Il est également judicieux de se renseigner sur ce qui est permis : congés et pauses d’allaitement.
 La réponse A n’est pas adéquate. Vous ne répondez pas aux attentes de la mère en la décourageant de continuer. Pour rappel, l’OMS conseille l’allaitement maternel exclusif jusqu'à 6 mois et durant la diversification alimentaire jusqu'à 2 ans.
 
 
-   ###  Combien de temps le lait maternel peut-il rester dans un congélateur séparé ?
+   ### Combien de temps le lait maternel peut-il rester dans un congélateur séparé ?
    - [ ] 2 mois
    - [X] 6 mois
    > La température du congélateur doit être à -18°

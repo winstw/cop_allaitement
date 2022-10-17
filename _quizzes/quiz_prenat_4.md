@@ -3,6 +3,8 @@ title: "Quiz prénatal 4: Expression du lait maternel"
 layout: default
 quizz: true
 categories: prenat
+header:
+  teaser: /assets/images/quizz/quizz_prenat_expression_lait.jpg
 --- 
 <div class="quizdown">
     ---

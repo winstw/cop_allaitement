@@ -3,6 +3,8 @@ title: "Quiz prénatal 1: Avantages pour bébé"
 layout: default
 quizz: true
 categories: prenat
+header:
+  teaser: /assets/images/quizz/quizz_prenat_avantage_bebe.jpg
 --- 
 <div class="quizdown">
     ---

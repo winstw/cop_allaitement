@@ -3,6 +3,8 @@ title: "Quiz prénatal 3: Colostrum et alimentation efficace"
 layout: default
 quizz: true
 categories: prenat
+header:
+  teaser: /assets/images/quizz/quizz_prenat_colostrum.jpg
 --- 
 <div class="quizdown">
     ---

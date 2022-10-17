@@ -3,6 +3,8 @@ title: "Comment est-ce que je ressens mon allaitement ?"
 layout: default
 quizz: true
 categories: ressenti
+header:
+  teaser: /assets/images/quizz/ressenti.png
 --- 
 <div class="quizdown">
     ---

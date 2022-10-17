@@ -94,9 +94,9 @@ header:
 
 > <i class="fas fa-exclamation-triangle"></i> Nous vous recommandons de consulter une conseillère en lactation :
 >
-> - si vous observez un seul des points dans la colonne <em class="text-yellow">“Inquiétant”</em>.
+> - si vous observez un seul des points dans la colonne <em class="text-yellow">“À surveiller”</em>.
 >
->- si vous observez au moins deux points dans la colonne <em class="text-red">“À surveiller”</em>.
+>- si vous observez au moins deux points dans la colonne <em class="text-red">“Inquiétant”</em>.
 {: .notice--danger }
 
 

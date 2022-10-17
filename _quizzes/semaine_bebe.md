@@ -3,6 +3,8 @@ title: "Autoévaluation après une semaine d'allaitement : pour le bébé"
 layout: default
 quizz: true
 categories: semaine
+header:
+  teaser: /assets/images/quizz/autoeval_semaine_bebe.jpg
 --- 
 <div class="quizdown">
     ---

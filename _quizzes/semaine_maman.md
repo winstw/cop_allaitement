@@ -3,6 +3,8 @@ title: "Autoévaluation après une semaine d'allaitement : pour la maman"
 layout: default
 quizz: true
 categories: semaine
+header:
+  teaser: /assets/images/quizz/autoeval_semaine_maman.png
 --- 
 <h3>
 Je me sens à l’aise pour :

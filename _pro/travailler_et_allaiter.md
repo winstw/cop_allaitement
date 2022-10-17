@@ -33,7 +33,18 @@ Les mamans préparent la garde du bébé, elles visitent le milieu d’accueil, 
 4. mode d’administration du lait: gobelet, cuillère……..
 5. Brochures, dépliants, liste d’adresses de conseillères en lactation, les associations d’aide à l’allaitement, les groupes de rencontre de mamans allaitantes.
 
-### 2.3 Maintien de la lactation
+### 2.3 Fiche de liaison entre la maison et le milieu d’accueil
+
+La première partie de cette fiche, intitulée « maison » doit être complétée par la maman et concerne l’allaitement à la
+maison. La deuxième partie doit être remplie par les accueillantes en crèche. Cette fiche sert de dialogue entre les parents et les professionnels.
+
+#### Maison
+![image]({{ site.url }}{{ site.baseurl }}/assets/images/fiche_maison.png){: style="width:100%;" :}
+
+#### Milieu d’accueil
+![image]({{ site.url }}{{ site.baseurl }}/assets/images/fiche_milieu_accueil.png){: style="width:100%;" :}
+
+### 2.4 Maintien de la lactation
 Tirer du lait dès qu’il est possible de faire des réserves avant la reprise du travail, en tirant le lait lors des pauses d’allaitement sur le lieu de travail, stimuler les glandes de préférence et si possible aux heures où l’enfant prenait ses tétées à la maison. Faire des tétées de retrouvailles après le travail, la nuit, les week-end en faisant la sieste. La maman sera encouragée par sa/ son partenaire pour l’aider à se reposer et garder son bien-être émotionnel et physique.
 Si la lactation baisse, penser à tirer plus souvent du lait pour stimuler de nouveau les glandes. Discuter avec d’autres mamans allaitantes pour échanger les expériences. Rencontrer si besoin une conseillère en lactation.
 é

@@ -3,6 +3,8 @@ title: "Quiz prénatal 2: Avantages pour maman"
 layout: default
 quizz: true
 categories: prenat
+header:
+  teaser: /assets/images/quizz/quizz_prenat_avantage_maman.png
 --- 
 <div class="quizdown">
     ---
@@ -10,7 +12,7 @@ categories: prenat
     shuffleQuestions: false
     shuffleAnswers: false
     directFeedback: true
-    title: "Quiz prénatal 2: Colostrum et alimentation efficace"
+    title: "Quiz prénatal 2: Avantages pour maman"
     ---
 
     ### L’allaitement augmente le lien mère-enfant
