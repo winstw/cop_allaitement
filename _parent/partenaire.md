@@ -46,6 +46,10 @@ On n’allaite pas à deux, on allaite à trois…
  
 Le partenaire joue un rôle primordial en étant **un pilier et un soutien pour la famille**.
 
+
+N'hésitez pas à consulter la [page suivante](https://tout-petits.org/publications/sur-le-radar/comment-favoriser-l-engagement-des-peres-par-nos-politiques-publiques/l-engagement-paternel-essentiel-au-developpement-optimal-des-tout-petits) pour en savoir plus.
+
 ___
 Pour de plus amples informations, des conseils adaptés à votre situation ou des réponses à vos questions, n’oubliez pas d’appeler votre sage-femme et/ou conseillère en lactation !
-___
+
+
