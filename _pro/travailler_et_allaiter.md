@@ -20,7 +20,10 @@ La rencontre avec une consultante en lactation avant la reprise du travail perme
 
 Les mamans discutent avec l’employeur pour réunir toutes les conditions pour permettre la continuité de l’allaitement en travaillant (2 mois avant la reprise du travail).
 
-Les mamans préparent la garde du bébé, elles visitent le milieu d’accueil, rencontrent les accueillantes, s’informent du projet d’accueil, de la période de familiarisation, discutent avec le personnel de l’arrivée du bébé dans un nouvel environnement, de son alimentation, de ses rythmes, ses habitudes, de la spécificité, la diversité de l’enfant. Elles s’assurent que les accueillantes qui ont les compétences particulières pour s’occuper des bébés allaités.
+Les mamans préparent la garde du bébé, elles visitent le milieu d’accueil, rencontrent les accueillantes, s’informent du projet d’accueil, de la période de familiarisation, discutent avec le personnel de l’arrivée du bébé dans un nouvel environnement, de son alimentation, de ses rythmes, ses habitudes, de la spécificité, la diversité de l’enfant. Elles s’assurent que les accueillantes ont les compétences particulières pour s’occuper des bébés allaités. Les accueillantes sont formées au maternage professionnel,c’est à dire qu’elles proposent une continuité entre la maison et la crèche mais aussi une ouverture à différentes méthodes de prise en charge du bébé dans un environnement inconnu mais avec des approches connues .
+Exemple:le bébé reçoit le lait maternel apporté par sa maman soit au gobelet en lapant le lait, à la cuillère, à la seringue, au biberon.L’accueillante le porte,le  balance, le berce, le masse avec l’aide du doudou imprégné de l’odeur de sa maman qu’elle a porté contre sa poitrine. 
+Le bébé, n’est pas obligé d’être nourri durant sa période d’accueil, il a peut-être pris une longue tétée, avant d’arriver en milieu d’accueil. Il en prend d’autres à son retour à la maison, et se réveillera de nouveau la nuit, si besoin.
+
 ## 2 Environnement favorable
 ### 2.1 Milieu de travail
 1. Adaptation des congés, des pauses allaitement, télétravail…, flexibilité des horaires.
@@ -80,6 +83,7 @@ Le lait maternel est fractionné dans 3-4 récipients de 50 à 80ml /8h de garde
 Le congé d’allaitement en soi n’existe pas, c’est une prolongation du congé d’écartement prophylactique jusqu’au 5 mois de l’enfant.
 Si la maman a bénéficié de ce type de congé pendant la grossesse et si elle souhaite continuer à être écartée pendant la période d’allaitement, elle devra en faire la demande à son employeur, 2 mois avant la date de reprise du travail.
 Si elle souhaite continuer l’allaitement au-delà des 5 mois et qu’elle se trouve dans un milieu à risque, elle devra négocier avec l’employeur l’adaptation de son travail. 
+
 ### A.R. 19-05-1981
 **Article 55.** - Pour allaiter ou tirer son lait, le membre du personnel utilise
 l'endroit discret, bien aéré, bien éclairé, propre et convenablement chauffé qui, en
@@ -97,32 +101,7 @@ mois peut être réduit de commun accord.
 Le temps des pauses est rémunéré par la mutuelle à  la maman à hauteur de 82% du salaire brut, jusqu’à 9 mois après la naissance.
 Le congé parental :l’interruption complète peut être obtenue pendant **4 mois maximum**.
 Selon la règle générale, ces 4 mois peuvent être fractionnés par périodes de 1 mois ou un multiple.  Dès lors, selon le choix, on peut demander 1, 2, 3 ou 4 mois de congé parental complet.  Si celui-ci n’est pas pris d’une traite, le solde d’interruption peut être utilisé ultérieurement, tant que l’enfant a moins de 12 ans (ou moins de 21 ans s’il souffre d’un handicap).
-## 7 Quizz :
 
-- Une maman se présente à la consultation, elle souhaiterait continuer d’allaiter en reprenant le travail ? Quels conseils allez-vous lui donnez ?
-  - A. Continuer à allaiter en travaillant est fatiguant, de plus votre enfant n’aura vite plus assez de lait.
-  - B. Il faut vous préparer avant de faire des réserves de lait, allez voir un professionnel qui pourra vous aider.
-  - C. Vous êtes-vous renseignée si vous avez droit à des congés d’allaitement ?
-
-Les réponses B et C sont les bonnes BRAVO. Les mères peuvent continuer à allaiter en reprenant le travail mais cela se prépare avant. Il est également judicieux de se renseigner sur ce qui est permis : congés et pauses d’allaitement.
-La réponse A n’est pas adéquate. Vous ne répondez pas aux attentes de la mère en la décourageant de continuer. Pour rappel, l’OMS conseille l’allaitement maternel exclusif jusqu'à 6 mois et durant la diversification alimentaire jusqu'à 2 ans.
-
-- Combien de temps le lait maternel peut-il rester dans un congélateur séparé ?
-   - A. 2 mois
-   - B. 6 mois
-   - C. 18 mois
-
-La bonne réponse est la B  Bravo, la température du congélateur doit être à  -18°
-
-- Un bébé allaité exclusivement de 3 mois peut recevoir comme alimentation en milieu d’accueil
-   - A. Du lait maternel au biberon
-   - B. Du lait maternisé au biberon
-   - C. Du lait maternel au gobelet
-   - D. Du lait maternel à la cuillère 
-   - E. Du lait maternel au sein
-   - F. Des aliments moulus à la cuillère 
-
-Les bonnes réponses sont A-C-D-E. Il recevra du lait maternel apporté par sa maman soit au biberon, soit au gobelet en lapant le lait, soit à la cuillère suivant qu’il présente des difficultés pour l’une ou l’autre méthode. Il est trop jeune pour prendre une alimentation diversifiée (pas avant 4 mois mais pas plus tard que 6 mois). Si la maman a opté pour la continuité du lait maternel, il ne doit pas recevoir du lait maternisé. Ne pas forcer l’enfant, il n’est pas obligé d’être nourri durant sa période d’accueil, il a peut-être pris une longue tétée, avant d’arriver en milieu d’accueil. Il en prend d’autres à son retour à la maison, et se réveillera de nouveau la nuit, si besoin. Les signes de pleurs, ne signifient pas signes de faim, il a parfois besoin d’être porté, balancé, bercé, massé avec l’aide du doudou imprégné de l’odeur de sa maman qu’elle a porté contre sa poitrine. S’il a faim, il a le réflexe de fouissement , il fait des bruits de lèvres, il suce ses doigts. 
 
 ## Références :
 - [Dépliant de l’ONE](https://www.one.be/public/detailarticle/news/travailler-et-allaiter-c-est-possible/)
