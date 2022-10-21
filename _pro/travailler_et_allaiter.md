@@ -50,7 +50,7 @@ maison. La deuxième partie doit être remplie par les accueillantes en crèche.
 ### 2.4 Maintien de la lactation
 Tirer du lait dès qu’il est possible de faire des réserves avant la reprise du travail, en tirant le lait lors des pauses d’allaitement sur le lieu de travail, stimuler les glandes de préférence et si possible aux heures où l’enfant prenait ses tétées à la maison. Faire des tétées de retrouvailles après le travail, la nuit, les week-end en faisant la sieste. La maman sera encouragée par sa/ son partenaire pour l’aider à se reposer et garder son bien-être émotionnel et physique.
 Si la lactation baisse, penser à tirer plus souvent du lait pour stimuler de nouveau les glandes. Discuter avec d’autres mamans allaitantes pour échanger les expériences. Rencontrer si besoin une conseillère en lactation.
-é
+
 ## 3 Fiche technique
 ### Tire lait Manuel, électrique 
 S’assurer de la qualité du matériel, et de son efficacité : type de tire-lait, taille des téterelles(embouts),temps d’utilisation, confort de la maman, facilité pour le transport. Il existe sur la marché des tires-lait compacts, légers, avec application pour signaler les séances d’expressions et un adaptateur avec cable USB , on peut les utiliser partout sans courant électrique. (Beau cadeau de naissance à se faire offrir en groupe/ prix à la hauteur du produit).
