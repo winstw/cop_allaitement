@@ -18,7 +18,7 @@ header:
 
     ### L’allaitement doit être instauré dans l’heure après l’accouchement
 
-    1. [X] Vrai
+    1. [V] Vrai
     > Plus le nouveau-né tète rapidement après sa naissance, plus l’impact est positif sur la production et sur la durée de l’allaitement.	
     2. [ ] Faux
 
@@ -31,9 +31,9 @@ header:
 
     ### Les éructations (rots) montrent que le bébé est rassasié
 
-    1. [X] Vrai
-    > Le bébé allaité ne fait pas forcément de rot comme le bébé nourri au biberon.	
-    2. [ ] Faux
+    1. [ ] Vrai
+    2. [X] Faux
+   > Le bébé allaité ne fait pas forcément de rot comme le bébé nourri au biberon.	
 
 
     ### Les bébés qui sont suffisamment nourris urinent plus fréquemment
@@ -51,9 +51,9 @@ header:
 
     ### Le lait artificiel est aussi sain pour un nourrisson que le lait maternel
 
-    1. [X] Vrai
-    > La composition du lait maternel est spécifique et s’adapte aux besoins et à l’âge du nourrisson.	
-    2. [ ] Faux
+    1. [ ] Vrai	
+    2. [X] Faux
+   > La composition du lait maternel est spécifique et s’adapte aux besoins et à l’âge du nourrisson.
 
 
     ### L’allaitement est plus pratique que la préparation pour nourrisson
