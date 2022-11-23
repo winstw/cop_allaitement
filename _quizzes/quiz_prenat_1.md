@@ -18,7 +18,7 @@ header:
 
     ### L’allaitement doit être instauré dans l’heure après l’accouchement
 
-    1. [V] Vrai
+    1. [X] Vrai
     > Plus le nouveau-né tète rapidement après sa naissance, plus l’impact est positif sur la production et sur la durée de l’allaitement.	
     2. [ ] Faux
 
@@ -33,7 +33,7 @@ header:
 
     1. [ ] Vrai
     2. [X] Faux
-   > Le bébé allaité ne fait pas forcément de rot comme le bébé nourri au biberon.	
+  > Le bébé allaité ne fait pas forcément de rot comme le bébé nourri au biberon.	
 
 
     ### Les bébés qui sont suffisamment nourris urinent plus fréquemment
@@ -73,7 +73,7 @@ header:
     2. [X] Faux
 	> Le bébé ne doit pas recevoir d’eau en supplément, le lait maternel contient 80% d’eau dans sa composition.
 
-    ### Les bébés allaités sont en meilleure santé que les bébés qui ne le sont pas
+    ### Les bébés allaités sont moins susceptibles d'être malades que les bébés qui ne le sont pas
 
     1. [X] Vrai
 	> Ils développent en effet une meilleure immunité et le lait est spécifique de l’espèce humaine. Ils souffrent moins à long terme d’obésité, de diabète, de maladies cardiovasculaires, d’allergies, de certains cancers….
@@ -82,7 +82,7 @@ header:
     ### Les bébés nourris au lait artificiel sont susceptibles d’être suralimentés
 
     1. [X] Vrai
-	> Effectivement, les laits artificiels sont offerts en grandes quantités et sans forcément respecter  l'appétit du bébé. La composition en sucre et en graisse est en quantité trop élevée dans le lait de formule.
+	> Effectivement, si les laits artificiels sont offerts en grandes quantités et sans forcément respecter  l'appétit du bébé. La composition en sucre et en graisse est en quantité trop élevée dans le lait de formule.
     2. [ ] Faux
 
     ### L’allaitement réduit le risque d’infection pulmonaire chez le bébé
@@ -91,10 +91,10 @@ header:
 	> Absolument, il y a trois fois moins d’infections ORL et respiratoires chez le bébé allaité.
     2. [ ] Faux
 
-    ### L’allaitement augmente l’intelligence
+    ### L’allaitement augmente les interactions avec la maman et soutien le développement de l'enfant
 
     1. [X] Vrai
-	> De part sa richesse en bon nutriments pour les cellules mais surtout grâce à la fréquence des interactions avec maman, les bébés allaités ont beaucoup plus de facilités dans les acquisitions du langage, de la gestion des émotions, de l’indépendance ….
+	> De part sa richesse en bon nutriments pour les cellules mais surtout grâce à la fréquence des interactions avec maman, les bébés allaités ont plus de facilités dans les acquisitions du langage, de la gestion des émotions, de l’indépendance ….
     2. [ ] Faux
 
     ### Les avantages du lait maternel ne durent que tant que le bébé est allaité 
@@ -113,12 +113,12 @@ header:
 
     1. [ ] Vrai
     2. [X] Faux
-	> L’allaitement exclusif est recommandé pour le nourrisson jusqu’à 6 mois et en plus d’une alimentation diversifiée jusqu’à 2 ans; et selon le choix éclairé de sa mère. Plus l’alimentation au lait maternel est longue, plus c’est bénéfique pour la santé de la mère et de l’enfant.
+	> L'OMS et l'UNICEF recommandent l'allaitement exclusif pour le nourrisson jusqu’à 6 mois et jusqu'à 2 ans en complément d’une alimentation diversifiée (en fonction du souhait des mères). Plus l’alimentation au lait maternel est longue, plus c’est bénéfique pour la santé de la mère et de l’enfant.
 
     ### L’allaitement diminue le temps d’hospitalisation des enfants en bas âge
 
     1. [X] Vrai
-	> Oui, il est prouvé que les bébés allaités sont moins souvent hospitalisés.
+	> Oui, il est prouvé que les bébés allaités sont moins souvent hospitalisés et moins longtemps.
     2. [ ] Faux
 
     ### L’allaitement doit se faire à la demande 
