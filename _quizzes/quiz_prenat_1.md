@@ -49,18 +49,16 @@ header:
     > De par sa composition, le lait maternel est digéré deux fois plus vite que le lait de formule.	
     2. [ ] Faux
 
-    ### Le lait artificiel est aussi sain pour un nourrisson que le lait maternel
+    ### La composition du lait artificiel est la même que celle du lait maternel
 
     1. [ ] Vrai	
     2. [X] Faux
-   > La composition du lait maternel est spécifique et s’adapte aux besoins et à l’âge du nourrisson.
+   > La composition du lait maternel est spécifique de l'espèce. Il répond aux besoins et à l’âge du nourrisson. 
 
-
-    ### L’allaitement est plus pratique que la préparation pour nourrisson
+    ### L’allaitement au sein est plus pratique que l'alimentation au biberon
 
     1. [X] Vrai
-    > Le sein est toujours prêt à l’emploi peu importe où l’on se trouve.
-    A bonne température, rien à laver. Cependant, cela peut sembler contraignant puisque la maman est seule à gérer l’allaitement.
+    > Le lait maternel est toujours prêt à l’emploi peu importe où l’on se trouve. Á bonne température, rien à laver, rien à préparer. Cependant, cela peut sembler contraignant puisque la maman est seule à gérer l’allaitement.
     2. [ ] Faux
 
     ### Un bébé allaité est moins sujet à la diarrhée 
