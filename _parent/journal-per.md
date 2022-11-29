@@ -17,7 +17,7 @@ header:
 
 C’est la première étape vers la mise au sein.
 
-### Première mise au sein
+### Première tétée
 #### Signes qu’il est prêt à téter
 
 Cf. fiche « Une bonne tétée, c'est quoi ? »
