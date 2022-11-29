@@ -1,5 +1,5 @@
 ---
-title:  "Une bonne têtée, c'est quoi ?"
+title:  "Une bonne tétée, c'est quoi ?"
 categories: per
 user: parent
 date: 09-08-2022
@@ -9,7 +9,7 @@ header:
 ---
 
 ![image]({{ site.url }}{{ site.baseurl }}/assets/images/bonne_tetee_1.png){: style="width:80%"}
-*[Source](https://www.health.belgium.be/sites/default/files/uploads/fields/fpshealththemefile/brocsstexbrcfam.pdf)*{: style="display:block;font-size:0.5em;"}
+*[Source]([https://www.health.belgium.be/sites/default/files/uploads/fields/fpshealththemefile/brocsstexbrcfam.pdf](https://www.health.belgium.be/fr/alimentation/politique-alimentaire/alimentation-et-sante/allaitement-)*{: style="display:block;font-size:0.5em;"}
 
 # Quelques pistes utiles pour assurer :
 - Une alimentation adaptée aux besoins du bébé et à sa croissance 
@@ -31,7 +31,7 @@ header:
 {: .notice--success .bigger-text }
 
 
-## Bébé est-il prêt à têter ?
+## Bébé est-il prêt à téter ?
 
 ![image]({{ site.url }}{{ site.baseurl }}/assets/images/bonne_tetee_2.png){: style="width: 150%" :}
 
@@ -94,13 +94,13 @@ header:
 
 > <i class="fas fa-exclamation-triangle"></i> Nous vous recommandons de consulter une conseillère en lactation :
 >
-> - si vous observez un seul des points dans la colonne <em class="text-yellow">“À surveiller”</em>.
+> - si vous observez deux des points ou plus dans la colonne <em class="text-yellow">“À surveiller”</em>.
 >
->- si vous observez au moins deux points dans la colonne <em class="text-red">“Inquiétant”</em>.
+>- si vous observez un point ou plus dans la colonne <em class="text-red">“Inquiétant”</em>.
 {: .notice--danger }
 
 
-## Observation d'une têtée
+## Observation d'une tétée
 
 <table class="colored-table">
   <tbody>
