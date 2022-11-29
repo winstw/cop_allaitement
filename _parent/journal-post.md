@@ -25,7 +25,7 @@ Aux alentours de la 3e et 6e semaines et 3e et 6e mois, votre bébé va être be
 Ce moment peut être perçu comme une insuffisance de lait alors que c’est juste une adaptation normale aux besoins du bébé.
 
 ### Contraception
-Lors de la reprise d’une contraception hormonale (même la moins dosée), il peut y avoir une diminution de la production de lait et un changement de comportement de votre bébé. Privilégiez les contraceptions non-hormonales.
+Lors de la reprise d’une contraception hormonale (même la moins dosée), il peut y avoir une diminution de la production de lait et un changement de comportement de votre bébé. Privilégiez les contraceptions non-hormonales jusqu’à la visite post-natale des 6 semaines, ce sera l’occasion d’en parler avec votre gynécologue.
 
 ### Partenaire
 L’allaitement est un choix de couple. Votre partenaire est votre premier soutien. 
