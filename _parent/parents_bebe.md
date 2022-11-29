@@ -26,7 +26,7 @@ classes: wide
 	</tr>
 	<tr>
 		<th>ONE</th>
-		<td>La première visite se fait à la maison pour la prise de contact avec le/la TMS (travailleur médico-social).<br>Les visites suivantes ont lieu dans les locaux de l’ONE. Le bébé sera examiné par un médecin ou pédiatre (croissance, vaccins, conseils d’alimentation et sur la parentalité, prévention, ...).</td>
+		<td>La première visite se fait à la maison pour la prise de contact avec le/la PEP's (Partenaire Enfants - Parents).<br>Les visites suivantes ont lieu dans les locaux de l’ONE. Le bébé sera examiné par un médecin ou pédiatre (croissance, vaccins, conseils d’alimentation et sur la parentalité, prévention, ...).</td>
 		<td>Gratuit </td>
 		<td>De 0 à 6 ans (et plus)</td>
 	</tr>
