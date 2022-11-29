@@ -11,6 +11,8 @@ header:
 >
 > <cite>Salinier-Rolland (2014)<cite>[^1]
 
+L’arrêt de l’allaitement est un passage obligé dans la vie d’un enfant, il grandit, des centres d'intérêt nouveaux vont l’appeler de plus en plus loin de sa mère. Une adaptation progressive, sans précipitation, en confiance se fait au moment venu. Maman et bébé sentent que d’autres choses sont possibles et que la relation va évoluer dans une autre direction.
+
 ## Qu’est-ce que le sevrage ? 
 
 “Le sevrage peut signifier l’arrêt complet de l’allaitement (le sevrage « abrupt » ou définitif) ou, pour les besoins du présent énoncé, le début du processus graduel d’introduction d’aliments complémentaires dans le régime du nourrisson. L’introduction du tout premier aliment autre que du lait maternel constitue, par définition, le véritable commencement du sevrage.”[^2]
