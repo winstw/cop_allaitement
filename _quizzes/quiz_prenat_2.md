@@ -88,7 +88,7 @@ header:
 
 
     
-    ### L’utilisation du chou, de compresses froides, etc. peut aider à soulager l’engorgement
+    ### L’utilisation du chou, de compresses froides... peut aider à soulager l’engorgement
     
     1. [X] Vrai
     > L’utilisation du chou ou du fromage blanc en cataplasme sur les seins rouges et chauds permet un bon soulagement de la douleur. La glace entre les tétées peut également soulager mieux que les compresses froides.
@@ -115,14 +115,14 @@ header:
     > Absolument pas, au contraire il faut souvent exprimer le lait en plus des mises au sein pour régler l’engorgement.
 
 
-    ### Le lait maternel est moins cher que le lait maternisé
+    ### Le lait maternel est moins cher que le lait artificiel
     
     1. [X] Vrai
     > Il est à disposition non stop. On fait l’économie de l’achat du lait, de l’eau des biberons… Comme les bébés sont moins souvent malades, il y a également moins de frais de santé.
     2. [ ] Faux
 
 
-    ### Le lait maternisé pour nourrisson est le meilleur choix si la mère envisage de retourner au travail
+    ### Le lait artificiel pour nourrisson est le meilleur choix si la mère envisage de retourner au travail
     
     1. [ ] Vrai
     2. [X] Faux
