@@ -54,25 +54,25 @@ Concernant la quantité de lait frais ou congelé, il est préférable de le con
 ![image]({{ site.url }}{{ site.baseurl }}/assets/images/fiche_milieu_accueil.png){: style="width:100%;" :}
 
 ### 2.4 Maintien de la lactation
-•	Il est possible de tirer du  lait avant la reprise du travail pour pouvoir en apporter à la crèche (les premiers tirages sont en général peu productifs, c’est normal) 
-•	Tirer le lait lors des pauses d’allaitement sur le lieu de travail
-•	Tirer le lait de préférence aux heures où l’enfant prenait ses tétées à la maison
-•	Proposer une tétée de retrouvailles après le travail, 
-•	Poursuivre les tétées à la demande (la nuit, les week-end…)
-•	La maman sera encouragée par sa/son partenaire pour l’aider à se reposer et garder son bien-être émotionnel et physique 
-•	Discuter avec d’autres mamans allaitantes pour échanger les expériences
-•	Rencontrer si besoin une conseillère en lactation
+-	Il est possible de tirer du  lait avant la reprise du travail pour pouvoir en apporter à la crèche (les premiers tirages sont en général peu productifs, c’est normal) 
+-	Tirer le lait lors des pauses d’allaitement sur le lieu de travail
+-	Tirer le lait de préférence aux heures où l’enfant prenait ses tétées à la maison
+-	Proposer une tétée de retrouvailles après le travail, 
+-	Poursuivre les tétées à la demande (la nuit, les week-end…)
+-	La maman sera encouragée par sa/son partenaire pour l’aider à se reposer et garder son bien-être émotionnel et physique 
+-	Discuter avec d’autres mamans allaitantes pour échanger les expériences
+-	Rencontrer si besoin une conseillère en lactation
 Si la lactation baisse, penser à tirer plus souvent du lait pour stimuler de nouveau les glandes. 
 
 ## 3 Fiche technique
 ### Tire lait Manuel, électrique 
 Le tire-lait peut être loué, prêté, acheté nouveau ou en seconde main (pharmacies, mutuelles, maternité, entourage).
 Il est nécessaire de s’assurer de la qualité du matériel, et de son efficacité : 
-•	type de tire-lait, 
-•	taille des embouts, 
-•	temps d’utilisation, 
-•	confort de la maman, 
-•	facilité pour le transport.
+-	type de tire-lait, 
+-	taille des embouts, 
+-	temps d’utilisation, 
+-	confort de la maman, 
+-	facilité pour le transport.
 Il existe sur la marché des tire-laits compacts, légers, avec application pour signaler les séances d’expressions et un adaptateur avec câble USB, on peut l’utiliser partout sans courant électrique. Cela peut-être un beau cadeau de naissance à se faire offrir.
 La quantité de lait tirée ne reflète pas toujours la quantité que le bébé boit en tétant, elle est souvent moindre.
 Il peut y avoir un temps d’adaptation à l’utilisation de la machine, ainsi que des différences de quantités de lait tiré d’un moment à l’autre. En général, il faut prévoir au moins 2 tirages pour 8h de temps de travail.
@@ -94,25 +94,25 @@ Du lait décongelé ne peut jamais être  recongelé. S’il est congelé pendan
 *Ne jamais interrompre la chaîne du froid.*{: .notice--danger .text-center }
 
 ## 5 Transport du lait
-•	Transporter et conserver dans un contenant hermétique
-•	Placer dans un sac isotherme et calé par des packs de réfrigération
-•	La durée du transport ne peut pas excéder une heure
-•	Fractionner dans plusieurs récipients de 50 à 80ml remplis au trois-quarts 
+-	Transporter et conserver dans un contenant hermétique
+-	Placer dans un sac isotherme et calé par des packs de réfrigération
+-	La durée du transport ne peut pas excéder une heure
+-	Fractionner dans plusieurs récipients de 50 à 80ml remplis au trois-quarts 
 
 ## 6 Que dit la loi ?
 Jusqu'à présent, il n'existe pas de disposition légale prévoyant un droit au congé d'allaitement.  
 Deux situations possibles dans lesquelles le congé d’allaitement peut exister : la convention collective de travail et l’accord individuel avec l’employeur  
 Suivant que l’on est travailleuse salariée, indépendante, ou que l’on travaille dans le secteur public les modalités changent. Il est utile de se renseigner sur le site du [Service Public Fédéral Emploi, Travail et Concertation sociale] (https://emploi.belgique.be/fr/themes/jours-feries-et-conges/conge-de-maternite)
 Protection de la maternité et congés en lien avec celle-ci:
-•	l’écartement (congé prophylactique pour allaitement )
-•	les pauses allaitement
-•	le congé sans solde (accord avec l'employeur)
-•	le congé parental 
+- l’écartement (congé prophylactique pour allaitement )
+-	les pauses allaitement
+-	le congé sans solde (accord avec l'employeur)
+-	le congé parental 
 Pour les pauses allaitement, il faut  se référer à la CCT (convention collective de travail) n°80 du 27/11/2001, les travailleuses engagées dans un contrat de travail y ont droit, modifiée en CCT n°80 bis du 13/10/2010 qui leur donne droit à des pauses allaitement jusqu’à 9 mois après la naissance de l’enfant rendue obligatoire par AR du 05/12/2010.
 Lorsque vous reprenez le travail après votre congé de maternité, vous avez le droit de prendre une pause pour allaiter votre enfant ou tirer votre lait.
 La pause d'allaitement dure une demi-heure.
-•	Si vous prestez moins de 7 heures trente par jour, vous avez droit à une pause.
-•	Si vous prestez au moins 7 heures 30 par jour, vous avez droit à deux pauses.
+-	Si vous prestez moins de 7 heures trente par jour, vous avez droit à une pause.
+-	Si vous prestez au moins 7 heures 30 par jour, vous avez droit à deux pauses.
 Vous avez droit aux pauses d'allaitement jusqu'à 9 mois après la naissance de votre enfant.
 Les pauses ne sont pas rémunérées par votre employeur, mais vous avez droit à une indemnité payée par la mutualité.
 
