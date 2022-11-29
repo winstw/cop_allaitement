@@ -7,7 +7,7 @@ header:
   teaser: /assets/images/diversification_teaser.png
 ---
 
-C’est une période durant laquelle l’allaitement maternel exclusif à la demande est suivi par l’introduction progressive d’aliments divers. Pas vraiment de tout repos, mais de toutes les couleurs!
+C’est une période durant laquelle l’allaitement maternel exclusif à la demande est suivi par l’introduction progressive d’aliments divers. Pas vraiment de tout repos, mais de toutes les couleurs !
 
 L’OMS recommande l’allaitement maternel exclusif pendant 6 mois ; puis l’introduction d’une alimentation diversifiée de qualité tout en poursuivant l’allaitement pendant 2 ans ou plus.
  
@@ -53,9 +53,9 @@ Une consultante en lactation reste disponible pour vous accompagner lors de cett
 
 Voici quelques exemples de tableaux de diversification alimentaire (types d’aliments, quantités et nombre de repas par jour) :
 - [Saint-luc - page 19](https://www.saintluc.be/sites/default/files/2020-09/petit-pierre-mange-de-bon-coeur.pdf )
-- [https://www.etmamantudeviendras.com/2019/02/03/diversification-alimentaire-bebe/](https://www.etmamantudeviendras.com/2019/02/03/diversification-alimentaire-bebe/)
 - [Tableau : La diversification alimentaire jusqu'à 3 ans - mangerbouger.fr](https://drive.google.com/file/d/10z9U-4MWxQz8_FUcJvuBdgQfemTcP5jY/view?usp=sharing)
-
+- [La diversification alimentaire - menus type](https://www.etmamantudeviendras.com/2019/02/03/diversification-alimentaire-bebe/)
+- [La diversification alimentaire - guide](https://lactaclic.fr/diversification-alimentaire)
 Références: 
 - [http://www.santeallaitementmaternel.com](http://www.santeallaitementmaternel.com)
 - [Politique nationale nutrition santé (PNNS) 2017-2021 : promouvoir l’allaitement maternel](https://www.mpedia.fr/art-tableau-diversification/)
