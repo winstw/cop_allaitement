@@ -13,17 +13,21 @@ La reprise du travail n’est pas synonyme d’arrêt de lactation. Mais par con
 L’OMS recommande l’allaitement maternel exclusif jusqu’à 6 mois et partiellement jusqu’à 2 ans. Il demande de faciliter le retour au travail des mamans en leur accordant du temps, un lieu pour tirer et conserver du lait. Il encourage les professionnels à soutenir les mamans qui allaitent car : "ce n’est pas toujours facile de concilier l’arrivée d’un enfant et la vie professionnelle".
 
 L’allaitement long se généralise dans la société. Celle-ci regarde les mamans avec bienveillance quand elles allaitent des grands enfants.
-Les mamans s’informent, s’organisent dans leur vie familiale et professionnelle pour que leur projet se poursuive et aboutisse. Elles savent que c’est bénéfique pour leur santé, la santé de leur enfant et la qualité du lien d’attachement.
+Les mamans s’informent, s’organisent dans leur vie familiale et professionnelle pour que leur projet se poursuive et aboutisse. Elles savent que c’est bénéfique pour leur santé, la santé de leur enfant et la qualité du lien d’attachement. Allaiter augmente la confiance en soi, valorise les compétences et le sentiment d'auto-efficacité.
 
-Elles sont soutenues, encouragées par leur partenaire, les professionnels de la santé (consultante en lactation, pédiatre, personnel du milieu d’accueil...), les employeurs.
-La rencontre avec une consultante en lactation avant la reprise du travail permet d’en préparer les étapes et les modalités.
+Elles sont soutenues, encouragées par leur partenaire, les professionnels de la santé (consultante en lactation, pédiatre, personnel du milieu d’accueil...), les employeurs (charge de travail, plage horaire flexible , conditions favorables pour exprimer le lait, soutien de l’environnement de travail).
+
+La rencontre avec une consultante en lactation avant la reprise du travail permet d’en préparer les étapes et les modalités (connaissances, soutien motivationnel, rencontre  avec des mères, expérimentation…).
 
 Les mamans discutent avec l’employeur pour réunir toutes les conditions pour permettre la continuité de l’allaitement en travaillant (2 mois avant la reprise du travail).
 
-Les mamans préparent la garde du bébé, elles visitent le milieu d’accueil, rencontrent les accueillantes, s’informent du projet d’accueil, de la période de familiarisation, discutent avec le personnel de l’arrivée du bébé dans un nouvel environnement, de son alimentation, de ses rythmes, ses habitudes, de la spécificité, la diversité de l’enfant. Elles s’assurent que les accueillantes ont les compétences particulières pour s’occuper des bébés allaités. Les accueillantes sont formées au maternage professionnel, c’est à dire qu’elles proposent une continuité entre la maison et la crèche mais aussi une ouverture à différentes méthodes de prise en charge du bébé dans un environnement inconnu, mais avec des approches connues.
+Les mamans préparent la garde du bébé, elles visitent le milieu d’accueil, rencontrent les accueillantes, s’informent du projet d’accueil, de la période de familiarisation, discutent avec le personnel de l’arrivée du bébé dans un nouvel environnement, de son alimentation, de ses rythmes, ses habitudes, de la spécificité, la diversité de l’enfant. Elles s’assurent que les accueillantes ont les compétences particulières pour s’occuper des bébés allaités. 
+
+Les accueillantes sont formées au maternage professionnel, c’est à dire qu’elles proposent une continuité entre la maison et la crèche mais aussi une ouverture à différentes méthodes de prise en charge du bébé dans un environnement inconnu mais avec des approches connues.
 
 Exemple: le bébé reçoit le lait maternel apporté par sa maman soit au gobelet en lapant le lait, à la cuillère, à la seringue, au biberon. L’accueillante le porte, le  balance, le berce, le masse avec l’aide du doudou imprégné de l’odeur de sa maman qu’elle a porté contre sa poitrine. 
-Le bébé, n’est pas obligé d’être nourri durant sa période d’accueil, il a peut-être pris une longue tétée, avant d’arriver en milieu d’accueil. Il en prend d’autres à son retour à la maison, et se réveillera de nouveau la nuit, si besoin.
+
+Ne vous inquiétez pas, il est possible que votre bébé boive peu durant sa période d’accueil. Il a peut-être pris une longue tétée avant d’arriver, et il en prendra d’autres à son retour à la maison ainsi qu’éventuellement la nuit. 
 
 ## 2 Environnement favorable
 ### 2.1 Milieu de travail
@@ -46,20 +50,32 @@ maison. La deuxième partie doit être remplie par les accueillantes en crèche.
 ![image]({{ site.url }}{{ site.baseurl }}/assets/images/fiche_maison.png){: style="width:100%;" :}
 
 #### Milieu d’accueil
+Concernant la quantité de lait frais ou congelé, il est préférable de le conserver par petites quantités (environ 60 ml) pour éviter le gaspillage.
 ![image]({{ site.url }}{{ site.baseurl }}/assets/images/fiche_milieu_accueil.png){: style="width:100%;" :}
 
 ### 2.4 Maintien de la lactation
-Tirer du lait dès qu’il est possible de faire des réserves avant la reprise du travail, en tirant le lait lors des pauses d’allaitement sur le lieu de travail, stimuler les glandes de préférence et si possible aux heures où l’enfant prenait ses tétées à la maison. Faire des tétées de retrouvailles après le travail, la nuit, les week-end en faisant la sieste. La maman sera encouragée par sa/ son partenaire pour l’aider à se reposer et garder son bien-être émotionnel et physique.
-Si la lactation baisse, penser à tirer plus souvent du lait pour stimuler de nouveau les glandes. Discuter avec d’autres mamans allaitantes pour échanger les expériences. Rencontrer si besoin une conseillère en lactation.
+•	Il est possible de tirer du  lait avant la reprise du travail pour pouvoir en apporter à la crèche (les premiers tirages sont en général peu productifs, c’est normal) 
+•	Tirer le lait lors des pauses d’allaitement sur le lieu de travail
+•	Tirer le lait de préférence aux heures où l’enfant prenait ses tétées à la maison
+•	Proposer une tétée de retrouvailles après le travail, 
+•	Poursuivre les tétées à la demande (la nuit, les week-end…)
+•	La maman sera encouragée par sa/son partenaire pour l’aider à se reposer et garder son bien-être émotionnel et physique 
+•	Discuter avec d’autres mamans allaitantes pour échanger les expériences
+•	Rencontrer si besoin une conseillère en lactation
+Si la lactation baisse, penser à tirer plus souvent du lait pour stimuler de nouveau les glandes. 
 
 ## 3 Fiche technique
 ### Tire lait Manuel, électrique 
-S’assurer de la qualité du matériel, et de son efficacité : type de tire-lait, taille des téterelles(embouts),temps d’utilisation, confort de la maman, facilité pour le transport. Il existe sur la marché des tires-lait compacts, légers, avec application pour signaler les séances d’expressions et un adaptateur avec cable USB , on peut les utiliser partout sans courant électrique. (Beau cadeau de naissance à se faire offrir en groupe/ prix à la hauteur du produit).
-
-Le tire-lait n’est pas le reflet de la lactation, il peut y avoir un temps d’adaptation à l’utilisation de la machine(représentation négative), ainsi que des différences de quantités de lait tiré d’un moment à l’autre. Prévoir au moins 2 tirages pour 8h de temps de travail.
-La fonction du tirage détermine le résultat obtenu s’il est régulier ou occasionnel.
-Le tire- lait peut être loué, acheté (pharmacies, mutuelles, maternité, entourage).
-      
+Le tire-lait peut être loué, prêté, acheté nouveau ou en seconde main (pharmacies, mutuelles, maternité, entourage).
+Il est nécessaire de s’assurer de la qualité du matériel, et de son efficacité : 
+•	type de tire-lait, 
+•	taille des embouts, 
+•	temps d’utilisation, 
+•	confort de la maman, 
+•	facilité pour le transport.
+Il existe sur la marché des tire-laits compacts, légers, avec application pour signaler les séances d’expressions et un adaptateur avec câble USB, on peut l’utiliser partout sans courant électrique. Cela peut-être un beau cadeau de naissance à se faire offrir.
+La quantité de lait tirée ne reflète pas toujours la quantité que le bébé boit en tétant, elle est souvent moindre.
+Il peut y avoir un temps d’adaptation à l’utilisation de la machine, ainsi que des différences de quantités de lait tiré d’un moment à l’autre. En général, il faut prévoir au moins 2 tirages pour 8h de temps de travail.
 
 ![image]({{ site.url }}{{ site.baseurl }}/assets/images/lait2.png){: style="width:25%;" :} ![image]({{ site.url }}{{ site.baseurl }}/assets/images/lait3.png){: style="width:70%;float:right;" :}
 
@@ -73,35 +89,32 @@ Toujours démarrer par **l’expression manuelle**, se laver les mains avant de 
 ![image]({{ site.url }}{{ site.baseurl }}/assets/images/conservation_lait_tableau.png)
 
 On peut mélanger plusieurs tirages <u>sur 24h</u> quand le lait est à même température.
-Du lait décongelé ne peut jamais être  recongelé. S’il est congelé pendant plusieurs mois, la couleur, l’odeur et l’aspect sont modifiés. Le lait peut être consommé. 
+Du lait décongelé ne peut jamais être  recongelé. S’il est congelé pendant plusieurs mois, la couleur, l’odeur et l’aspect sont modifiés. Le lait peut cependant être consommé. 
 
 *Ne jamais interrompre la chaîne du froid.*{: .notice--danger .text-center }
 
 ## 5 Transport du lait
-Dans des récipients contenant, le lait maternel tiré par la maman, conservés dans une boite hermétique (nom prénom de l’enfant, date et heure de tirage), placés dans un sac isotherme, calés par des packs de réfrigération, la durée du transport ne peut pas excéder **une heure**.
-Le lait maternel est fractionné dans 3-4 récipients de 50 à 80ml /8h de garde de l’enfant en milieu d’accueil. Il faut éviter de remplir de plus grands récipients de lait, s’il est réchauffé et non consommé entièrement, il doit être jeté, alors qu’il est si précieux.
-## 6 Que dit la loi ?
-Le congé d’allaitement en soi n’existe pas, c’est une prolongation du congé d’écartement prophylactique jusqu’au 5 mois de l’enfant.
-Si la maman a bénéficié de ce type de congé pendant la grossesse et si elle souhaite continuer à être écartée pendant la période d’allaitement, elle devra en faire la demande à son employeur, 2 mois avant la date de reprise du travail.
-Si elle souhaite continuer l’allaitement au-delà des 5 mois et qu’elle se trouve dans un milieu à risque, elle devra négocier avec l’employeur l’adaptation de son travail. 
+•	Transporter et conserver dans un contenant hermétique
+•	Placer dans un sac isotherme et calé par des packs de réfrigération
+•	La durée du transport ne peut pas excéder une heure
+•	Fractionner dans plusieurs récipients de 50 à 80ml remplis au trois-quarts 
 
-### A.R. 19-05-1981
-**Article 55.** - Pour allaiter ou tirer son lait, le membre du personnel utilise
-l'endroit discret, bien aéré, bien éclairé, propre et convenablement chauffé qui, en
-exécution de l'article 88, alinéa 5, du Règlement général pour la protection du travail
-et le bien-être au travail, est mis par le directeur du centre à sa disposition afin qu'il
-ait la possibilité de se reposer en position allongée dans des conditions appropriées.
-**Article 56.** - La pause d'allaitement est d'une demi-heure. Le membre du
-personnel dont les prestations sont, au cours d'une journée de travail, de 4 heures ou
-plus a droit à une pause sur cette journée.
-Le membre du personnel dont les prestations sont, au cours d'une journée de
-travail d'au moins 7 heures 30 a droit à deux pauses sur cette journée.
-**Article 60.** - Le membre du personnel qui souhaite obtenir le bénéfice des pauses
-d'allaitement en avertit le directeur du centre deux mois à l'avance. Le délai de deux
-mois peut être réduit de commun accord.
-Le temps des pauses est rémunéré par la mutuelle à  la maman à hauteur de 82% du salaire brut, jusqu’à 9 mois après la naissance.
-Le congé parental :l’interruption complète peut être obtenue pendant **4 mois maximum**.
-Selon la règle générale, ces 4 mois peuvent être fractionnés par périodes de 1 mois ou un multiple.  Dès lors, selon le choix, on peut demander 1, 2, 3 ou 4 mois de congé parental complet.  Si celui-ci n’est pas pris d’une traite, le solde d’interruption peut être utilisé ultérieurement, tant que l’enfant a moins de 12 ans (ou moins de 21 ans s’il souffre d’un handicap).
+## 6 Que dit la loi ?
+Jusqu'à présent, il n'existe pas de disposition légale prévoyant un droit au congé d'allaitement.  
+Deux situations possibles dans lesquelles le congé d’allaitement peut exister : la convention collective de travail et l’accord individuel avec l’employeur  
+Suivant que l’on est travailleuse salariée, indépendante, ou que l’on travaille dans le secteur public les modalités changent. Il est utile de se renseigner sur le site du [Service Public Fédéral Emploi, Travail et Concertation sociale] (https://emploi.belgique.be/fr/themes/jours-feries-et-conges/conge-de-maternite)
+Protection de la maternité et congés en lien avec celle-ci:
+•	l’écartement (congé prophylactique pour allaitement )
+•	les pauses allaitement
+•	le congé sans solde (accord avec l'employeur)
+•	le congé parental 
+Pour les pauses allaitement, il faut  se référer à la CCT (convention collective de travail) n°80 du 27/11/2001, les travailleuses engagées dans un contrat de travail y ont droit, modifiée en CCT n°80 bis du 13/10/2010 qui leur donne droit à des pauses allaitement jusqu’à 9 mois après la naissance de l’enfant rendue obligatoire par AR du 05/12/2010.
+Lorsque vous reprenez le travail après votre congé de maternité, vous avez le droit de prendre une pause pour allaiter votre enfant ou tirer votre lait.
+La pause d'allaitement dure une demi-heure.
+•	Si vous prestez moins de 7 heures trente par jour, vous avez droit à une pause.
+•	Si vous prestez au moins 7 heures 30 par jour, vous avez droit à deux pauses.
+Vous avez droit aux pauses d'allaitement jusqu'à 9 mois après la naissance de votre enfant.
+Les pauses ne sont pas rémunérées par votre employeur, mais vous avez droit à une indemnité payée par la mutualité.
 
 
 ## Références :
