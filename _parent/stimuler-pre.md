@@ -32,7 +32,7 @@ Il est possible et parfois nécessaire de stimuler la lactation à différents m
 - À partir de 36 semaines
 - Masser ses seins
 - Stimuler l’aréole et le mamelon entre les doigts
-- Si nécessaire, expression manuelle (Cf. fiche expression et conservation du lait) 
+- Si nécessaire, expression manuelle (Cf. [fiche expression et conservation du lait]({{ site.url }}{{ site.baseurl }}/parent/per/lait.md) 
 - Au moins deux fois par jour
 - Le geste doit être doux et non douloureux
 
