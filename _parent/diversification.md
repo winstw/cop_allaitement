@@ -56,8 +56,9 @@ Voici quelques exemples de tableaux de diversification alimentaire (types d’al
 - [Tableau : La diversification alimentaire jusqu'à 3 ans - mangerbouger.fr](https://drive.google.com/file/d/10z9U-4MWxQz8_FUcJvuBdgQfemTcP5jY/view?usp=sharing)
 - [La diversification alimentaire - menus type](https://www.etmamantudeviendras.com/2019/02/03/diversification-alimentaire-bebe/)
 - [La diversification alimentaire - guide](https://lactaclic.fr/diversification-alimentaire)
+
 Références: 
-- [http://www.santeallaitementmaternel.com](http://www.santeallaitementmaternel.com)
+- [Santé et allaitement maternel](http://www.santeallaitementmaternel.com)
 - [Politique nationale nutrition santé (PNNS) 2017-2021 : promouvoir l’allaitement maternel](https://www.mpedia.fr/art-tableau-diversification/)
 - [Les bébés à table](https://www.mongeneraliste.be/veiller-a-sa-sante/alimentation/alimentation-les-bebes-a-table/)
 - [Brochure ONE - De nouveaux aliments en douceur...](https://www.one.be/fileadmin/user_upload/siteone/PARENTS/Brochures/de-nouveaux-aliments-en-douceur-web.pdf)
