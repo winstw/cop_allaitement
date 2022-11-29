@@ -19,7 +19,7 @@ Vos seins gonflent, durcissent, chauffent, rougissent, se remplissent d’eau, s
 Ce phénomène peut aussi s’accompagner d’une **élévation de la température corporelle** (impression de grippe).
 <span style="color:#c00000;font-weight:bold">Ce moment peut vous faire peur, heureusement, il ne dure que quelques jours !</span>
 
-### Comment la limiter ?
+### Comment la prévenir et la limiter ?
 Votre **meilleur allié c’est votre bébé**, que vous allez mettre fréquemment au sein : **plus il tète, mieux c’est** ! Vraisemblablement, il demandera très souvent à téter et tant mieux !
 Portez un bon soutien-gorge, avec des bretelles larges, adaptez la taille des bonnets (par exemple une brassière d’allaitement), 24h sur 24.
 
@@ -27,7 +27,7 @@ Portez un bon soutien-gorge, avec des bretelles larges, adaptez la taille des bo
 <span style="color:#c00000;font-weight:bold">Attention à la prise du sein</span>, plus difficile à ce moment-là. Vos seins étant plus tendus, le bébé aura plus de difficultés à prendre votre aréole en bouche.
 **La contre-pression** (voir schéma ci-dessous) **pendant une minute, bien couchée**, permet d’assouplir l’aréole et facilite la prise du sein.
 <span style="color:#c00000;font-weight:bold">La tension dans les seins doit rester supportable</span> :
-Utilisez le **chaud** (laissez couler de l’eau chaude sur les seins) et le **froid** (glace) pour vous soulager. Un massage du buste (des omoplates et entre les omoplates jusqu’aux épaules) vous fera le plus grand bien.
+Utilisez le **chaud** (laissez couler de l’eau chaude sur les seins) pour faciliter l’écoulement du lait ou utilisez la technique du [verre d’eau](https://www.youtube.com/watch?v=OVDx85D5RsI&t=1s) et le **froid** (glace) pour vous soulager. Un massage du buste (des omoplates et entre les omoplates jusqu’aux épaules) vous fera le plus grand bien.
 
 <span style="color:#c00000;font-weight:bold">Préférez la position couchée bien à plat, elle permet de limiter l’œdème.</span>
 
