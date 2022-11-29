@@ -73,6 +73,7 @@ Il est nécessaire de s’assurer de la qualité du matériel, et de son efficac
 -	temps d’utilisation, 
 -	confort de la maman, 
 -	facilité pour le transport.
+
 Il existe sur la marché des tire-laits compacts, légers, avec application pour signaler les séances d’expressions et un adaptateur avec câble USB, on peut l’utiliser partout sans courant électrique. Cela peut-être un beau cadeau de naissance à se faire offrir.
 La quantité de lait tirée ne reflète pas toujours la quantité que le bébé boit en tétant, elle est souvent moindre.
 Il peut y avoir un temps d’adaptation à l’utilisation de la machine, ainsi que des différences de quantités de lait tiré d’un moment à l’autre. En général, il faut prévoir au moins 2 tirages pour 8h de temps de travail.
