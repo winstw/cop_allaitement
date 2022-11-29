@@ -25,10 +25,10 @@ header:
 
     ### Les bébés doivent être allaités pendant au moins 10 à 20 minutes
 
-    1. [X] Vrai
-    > Aucune restriction de temps ni de fréquence avec un minimum de 8 tétées efficaces par 24h, de préférence à l’éveil.	
-    2. [ ] Faux
-
+    1. [] Vrai	
+    2. [X] Faux
+  > Aucune restriction de temps ni de fréquence avec un minimum de 8 tétées efficaces par 24h, de préférence à l’éveil.
+  
     ### Les éructations (rots) montrent que le bébé est rassasié
 
     1. [ ] Vrai
