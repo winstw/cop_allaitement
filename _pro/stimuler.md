@@ -12,20 +12,32 @@ Il est possible et parfois nécessaire de stimuler la lactation à différents m
 
 ## Avant la naissance
 
+### Quand ? : 
+- Diabète gestationnel ou préexistant
+-	Césarienne programmée
+-	Naissance de jumeaux 
+-	Retard de croissance
+-	Obésité maternelle 
+-	Antécédent de sous-production de lait
+-	Si vous le désirez
+
 ### Objectifs : 
 - Apprivoiser le contact avec les seins et prendre confiance
--   ◦ Atteindre plus rapidement la montée de lait après la naissance
+- Atteindre plus rapidement la montée de lait après la naissance
 - Récolter du colostrum
-- Peut favoriser une meilleure production de lait
+- Favoriser une meilleure production de lait 
+-	Augmenter la durée de l’allaitement
 
 ### Comment ? : 
 
 - À partir de 36 semaines
 - Masser ses seins
 - Stimuler l’aréole et le mamelon entre les doigts
-- Si nécessaire, expression manuelle (Cf. fiche expression et conservation du lait) 
+- Si nécessaire, expression manuelle (Cf. [fiche expression et conservation du lait]({{ site.url }}{{ site.baseurl }}_parent/lait.md) 
 - Au moins deux fois par jour
 - Le geste doit être doux et non douloureux
+
+Contre-indication : contractions, pertes de sang ou menace d’accouchement prématuré
 
 ## Dès la naissance
 ### Objectifs : 
@@ -43,7 +55,7 @@ Il est possible et parfois nécessaire de stimuler la lactation à différents m
 ## Séjour à la maternité
 
 ### Objectifs : 
-- Eviter une prise de compléments de lait artificiel
+- Éviter une prise de compléments de lait artificiel
 - Nourrir un bébé qui ne sait/peut pas aller directement au sein
 - Augmenter la production de lait
 
