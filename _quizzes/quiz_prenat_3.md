@@ -50,7 +50,7 @@ header:
 	> Le colostrum est spécifique et adapté aux besoins particuliers du bébé né prématurément. Il réduit de 60% les infections intestinales néonatales sévères.
     2. [ ] Faux
 
-    ### Une position correcte permet une alimentation efficace
+    ### Une position correcte permet une tétée efficace
 	
     1. [X] Vrai
 	> En partie, une position correcte va faciliter la prise du sein et donc le transfert de lait à l’enfant.  
