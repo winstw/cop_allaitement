@@ -34,9 +34,9 @@ La réponse A n’est pas adéquate. Vous ne répondez pas aux attentes de la m�
    ### Un bébé allaité exclusivement de 3 mois peut recevoir comme alimentation en milieu d’accueil
    - [X] Du lait maternel au biberon
    > Il recevra du lait maternel apporté par sa maman soit au biberon, soit au gobelet en lapant le lait, soit à la cuillère suivant qu’il présente des difficultés pour l’une ou l’autre méthode.
-   Il est trop jeune pour prendre une alimentation diversifiée (pas avant 4 mois mais pas plus tard que 6 mois). Si la maman a opté pour la continuité du lait maternel, il ne doit pas recevoir du lait maternisé. Ne pas forcer l’enfant, il n’est pas obligé d’être nourri durant sa période d’accueil, il a peut-être pris une longue tétée, avant d’arriver en milieu d’accueil.
+   Il est trop jeune pour prendre une alimentation diversifiée (pas avant 4 mois mais pas plus tard que 6 mois). Si la maman a opté pour la continuité du lait maternel, il ne doit pas recevoir du lait artificiel. Ne pas forcer l’enfant, il n’est pas obligé d’être nourri durant sa période d’accueil, il a peut-être pris une longue tétée, avant d’arriver en milieu d’accueil.
    Il en prend d’autres à son retour à la maison, et se réveillera de nouveau la nuit, si besoin. Les signes de pleurs, ne signifient pas signes de faim, il a parfois besoin d’être porté, balancé, bercé, massé avec l’aide du doudou imprégné de l’odeur de sa maman qu’elle a porté contre sa poitrine. S’il a faim, il a le réflexe de fouissement, il fait des bruits de lèvres, il suce ses doigts. 
-   - [ ] Du lait maternisé au biberon
+   - [ ] Du lait artificiel au biberon
    - [X] Du lait maternel au gobelet
    - [X] Du lait maternel à la cuillère 
    - [X] Du lait maternel au sein
