@@ -104,6 +104,7 @@ Du lait décongelé ne peut jamais être  recongelé. S’il est congelé pendan
 Jusqu'à présent, il n'existe pas de disposition légale prévoyant un droit au congé d'allaitement.  
 Deux situations possibles dans lesquelles le congé d’allaitement peut exister : la convention collective de travail et l’accord individuel avec l’employeur  
 Suivant que l’on est travailleuse salariée, indépendante, ou que l’on travaille dans le secteur public les modalités changent. Il est utile de se renseigner sur le site du [Service Public Fédéral Emploi, Travail et Concertation sociale](https://emploi.belgique.be/fr/themes/jours-feries-et-conges/conge-de-maternite)
+
 Protection de la maternité et congés en lien avec celle-ci:
 - l’écartement (congé prophylactique pour allaitement )
 -	les pauses allaitement
