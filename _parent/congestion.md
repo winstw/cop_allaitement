@@ -39,7 +39,7 @@ ___
 ### Schéma de la contre pression
 
 ![Contre pression]({{ site.url }}{{ site.baseurl }}/assets/images/congestion1.png)
-*[Source](https://www.lllfrance.org/vous-informer/fonds-documentaire/dossiers-de-l-allaitement/1377-da-53-assouplissement-par-contre-pression)*
+*[Source](https://www.lllfrance.org/vous-informer/fonds-documentaire/dossiers-de-l-allaitement/1377-da-53-assouplissement-par-contre-pression){:target="_blank"}*
 
 
 ## Engorgement 

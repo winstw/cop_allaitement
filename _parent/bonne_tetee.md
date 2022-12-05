@@ -213,7 +213,7 @@ header:
 
 ![image]({{ site.url }}{{ site.baseurl }}/assets/images/bonne_tetee_4.gif){: style="width:80%"}
 
-**Pour visualiser la mise au sein** : [GLOBAL HEALTH MEDIA PROJECT : Vidéo "L'allaitement maternel et la bonne prise de sein"](https://drive.google.com/file/d/12EHHH5Zi5Em2Vmw-Ag5K9mXRYNGgP8y3/view?usp=sharing)
+**Pour visualiser la mise au sein** : [GLOBAL HEALTH MEDIA PROJECT : Vidéo "L'allaitement maternel et la bonne prise de sein"](https://drive.google.com/file/d/12EHHH5Zi5Em2Vmw-Ag5K9mXRYNGgP8y3/view?usp=sharing){:target="_blank"}
 
 ![image]({{ site.url }}{{ site.baseurl }}/assets/images/bonne_tetee_5.png){: style="width:80%"}
 
@@ -239,7 +239,7 @@ header:
 
 ## A consulter: 
 
-[Référence sur les positions](https://www.sikana.tv/fr/health/learn-the-basics-of-breastfeeding/allaiter-en-position-ballon-de-rugby)
+[Référence sur les positions](https://www.sikana.tv/fr/health/learn-the-basics-of-breastfeeding/allaiter-en-position-ballon-de-rugby){:target="_blank"}
 
 <style>
 .colored-table tr {

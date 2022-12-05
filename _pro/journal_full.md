@@ -121,13 +121,13 @@ L’entrée en crèche ne signifie pas nécessairement sevrage de l’allaitemen
 Il arrive que certains enfants refusent de boire à la crèche. Un temps d’adaptation est nécessaire. Dès qu’il sera en contact avec sa maman, les tétées seront plus fréquentes en soirée, la nuit et les week-ends.
 
 ## Reprise du travail
-![Retour au travail]({{ site.url }}{{ site.baseurl }}/assets/images/journal3.png)*[Source](https://www.neufmois.fr/mon-bebe/1639-allaitement-comment-reprend-le-travail)*{: style="display:block;font-size:0.5em;"}
+![Retour au travail]({{ site.url }}{{ site.baseurl }}/assets/images/journal3.png)*[Source](https://www.neufmois.fr/mon-bebe/1639-allaitement-comment-reprend-le-travail){:target="_blank"}*{: style="display:block;font-size:0.5em;"}
 
 Il existe la possibilité dans de nombreux secteurs de prendre des pauses d’allaitement : 1h par temps plein que l’on peut diviser en 2 x 30min. Il faut avertir l’employeur deux mois avant la reprise du travail par lettre recommandée. Cette heure est prise en charge par la mutuelle.
 
 
 ![Retour au travail]({{ site.url }}{{ site.baseurl }}/assets/images/journal4.gif)
-*[Source](http://lesptitesmainsdabord.fr/2016/06/201606reprendre-le-travail-en-allaitant/)*{: style="display:block;font-size:0.5em;"}
+*[Source](http://lesptitesmainsdabord.fr/2016/06/201606reprendre-le-travail-en-allaitant/){:target="_blank"}*{: style="display:block;font-size:0.5em;"}
 
 Cf. fiche « Expression et conservation du lait ».
 
@@ -139,12 +139,12 @@ Le repas fait partie des rites sociaux et est un moment de partage avec la famil
 
 ## Sources 
 - Recommandations :
-   - [OMS](https://www.who.int/health-topics/breastfeeding#tab=tab_1)
-   - [UNICEF](https://www.unicef.org/french/nutrition/index_breastfeeding.html )
+   - [OMS](https://www.who.int/health-topics/breastfeeding#tab=tab_1){:target="_blank"}
+   - [UNICEF](https://www.unicef.org/french/nutrition/index_breastfeeding.html ){:target="_blank"}
 - Brochures ONE :
-   - [http://www.one.be/parents/publications-parents/?tt_products%5Bbegin_at%5D=0](http://www.one.be/parents/publications-parents/?tt_products%5Bbegin_at%5D=0)
-   - [Guide d'allaitement maternel à l'usage des professionnels](https://www.one.be/professionnel/brochuredetailpro/brochure/guide-dallaitement-maternel-a-lusage-des-professionnels/ )
+   - [http://www.one.be/parents/publications-parents/?tt_products%5Bbegin_at%5D=0](http://www.one.be/parents/publications-parents/?tt_products%5Bbegin_at%5D=0){:target="_blank"}
+   - [Guide d'allaitement maternel à l'usage des professionnels](https://www.one.be/professionnel/brochuredetailpro/brochure/guide-dallaitement-maternel-a-lusage-des-professionnels/ ){:target="_blank"}
 
 - Autres liens intéressants :
    - Première mise au sein, position allaitement, expression manuelle, premières heures de l’allaitement, etc. 
-   [Global Health Media](https://globalhealthmedia.org/videos/breastfeeding/)
+   [Global Health Media](https://globalhealthmedia.org/videos/breastfeeding/){:target="_blank"}

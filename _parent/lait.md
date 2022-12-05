@@ -19,8 +19,8 @@ header:
 
 
 >Pour en savoir plus
->- [Global Health Media (regarder entre 0:55 et 1min12)](https://globalhealthmedia.org/videos/breastfeeding-attachment/)
->- [La Leche League "Tirer son lait à la main ou au tire-lait - vidéos"  (regarder la 3e vidéo à partir de 0:55)](https://www.lllfrance.org/vous-informer/fonds-documentaire/videos/1833-tirer-son-lait-a-la-main )
+>- [Global Health Media (regarder entre 0:55 et 1min12)](https://globalhealthmedia.org/videos/breastfeeding-attachment/){:target="_blank"}
+>- [La Leche League "Tirer son lait à la main ou au tire-lait - vidéos"  (regarder la 3e vidéo à partir de 0:55)](https://www.lllfrance.org/vous-informer/fonds-documentaire/videos/1833-tirer-son-lait-a-la-main ){:target="_blank"}
 {: .notice--info}
 
 
@@ -30,7 +30,7 @@ header:
 N’oubliez pas de vous laver les mains avant de commencer.
 
 ![image]({{ site.url }}{{ site.baseurl }}/assets/images/lait1.png)
-*[Radan. (2018). Le lait maternel, un aliment de premier choix. Actualités pharmaceutiques, 57(577), 42–45.](https://doi.org/10.1016/j.actpha.2018.04.009)*{: style="display:block;font-size:0.5em;"}
+*[Radan. (2018). Le lait maternel, un aliment de premier choix. Actualités pharmaceutiques, 57(577), 42–45.](https://doi.org/10.1016/j.actpha.2018.04.009){:target="_blank"}*{: style="display:block;font-size:0.5em;"}
 
 
 
@@ -55,12 +55,12 @@ Peut être utilisé en simple ou double pompage avec une téterelle adaptée à 
 
 
 ![image]({{ site.url }}{{ site.baseurl }}/assets/images/lait2.png)
-*[Source image](https://www.bol.com/be/fr/p/byer-electrique-double-2-tire-lait-sans-bpa-150-ml/9300000015759061/)*{: style="font-size:0.5em;display: block;"}
+*[Source image](https://www.bol.com/be/fr/p/byer-electrique-double-2-tire-lait-sans-bpa-150-ml/9300000015759061/){:target="_blank"}*{: style="font-size:0.5em;display: block;"}
 
 Tirer son lait ne doit jamais être douloureux. 
 
 ![image]({{ site.url }}{{ site.baseurl }}/assets/images/lait3.png)
-*[Source image](https://blog.mon-materiel-medical-en-pharmacie.fr/content/28-comment-choisir-la-taille-de-ma-teterelle)*{: style="float:left;font-size:0.5em;"}
+*[Source image](https://blog.mon-materiel-medical-en-pharmacie.fr/content/28-comment-choisir-la-taille-de-ma-teterelle){:target="_blank"}*{: style="float:left;font-size:0.5em;"}
 
 Tout comme par l’expression manuelle, n’oubliez pas de vous laver les mains avant de commencer.
 

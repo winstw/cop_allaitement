@@ -31,4 +31,4 @@ ___
 À chaque étape, l’utilisation du tire-lait électrique double pompage peut s’avérer utile, mais faites-vous conseiller par une consultante en lactation pour une utilisation adéquate.
 
 ![Téterelle]({{ site.url }}{{ site.baseurl }}/assets/images/stimuler.png)
-*[Source](https://blog.mon-materiel-medical-en-pharmacie.fr/content/28-comment-choisir-la-taille-de-ma-teterelle)*
+*[Source](https://blog.mon-materiel-medical-en-pharmacie.fr/content/28-comment-choisir-la-taille-de-ma-teterelle){:target="_blank"}*

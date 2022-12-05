@@ -139,5 +139,5 @@ Il est donc très important qu'une fois la mère retournée au travail, son enfa
 Si, au cours de ses six premiers mois, un bébé est nourri avec une autre forme d'alimentation, cela peut avoir un impact négatif sur sa santé et sa croissance, ainsi que réduire la quantité de lait maternel produit par la mère.
 
 ## Guide à l’usage des employeurs
-Sources : https://www.unicef.org/media/73206/file/Breastfeeding-room-guide.pdf 2020
+Sources : [(https://www.unicef.org/media/73206/file/Breastfeeding-room-guide.pdf](https://www.unicef.org/media/73206/file/Breastfeeding-room-guide.pdf){:target="_blank"} 2020
 Traduction , mise en page :  Katelijne Moreau Druart, consultante en lactation Décembre 2021

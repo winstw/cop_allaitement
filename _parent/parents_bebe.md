@@ -20,7 +20,7 @@ classes: wide
 	</tr>
 	<tr>
 		<th>Sage-femme</th>
-		<td>Soins et surveillance médicale du bébé et de la maman à la maison. <br>Aide et soutien à la parentalité.<br><br>Où trouver une sage-femme ? <a href="https://myupsfb.be/api/searchpage">UpSfb</a> </td>
+		<td>Soins et surveillance médicale du bébé et de la maman à la maison. <br>Aide et soutien à la parentalité.<br><br>Où trouver une sage-femme ? <a href="https://myupsfb.be/api/searchpage" target="_blank">UpSfb</a> </td>
 		<td>Coût variable selon :<ul><li>Sages-femmes conventionnées ou non</li><li>Application du tiers-payant ou non</li></ul>Remboursement mutuelle</td>
 		<td>Dès la naissance jusqu’à l’âge d’un an</td>
 	</tr>
@@ -62,7 +62,7 @@ classes: wide
 	</tr>
 	<tr>
 		<th>Ostéopathe</th>
-		<td>Pour la mère, traitement de divers symptômes liés à l’accouchement.<br>Pour le bébé : après une naissance difficile et/ou problèmes variés (posture de l’enfant, difficulté de succion, tensions au niveau des mâchoires, « tête plate », mauvaise digestion, reflux, torticolis, …).<br><br>https://osteopathie.be/fr/osteopathie-je-suis-patient/</td>
+		<td>Pour la mère, traitement de divers symptômes liés à l’accouchement.<br>Pour le bébé : après une naissance difficile et/ou problèmes variés (posture de l’enfant, difficulté de succion, tensions au niveau des mâchoires, « tête plate », mauvaise digestion, reflux, torticolis, …).<br><br><a href="https://osteopathie.be/fr/osteopathie-je-suis-patient" target="_blank">osteopathie.be</a></td>
 		<td>Coût variable</td>
 		<td>Dès la naissance</td>
 	</tr>

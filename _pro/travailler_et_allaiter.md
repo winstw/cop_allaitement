@@ -120,11 +120,11 @@ Les pauses ne sont pas rémunérées par votre employeur, mais vous avez droit �
 
 
 ## Références :
-- [Dépliant de l’ONE](https://www.one.be/public/detailarticle/news/travailler-et-allaiter-c-est-possible/)
-- [Conservation du lait humain et ses propriétés](https://www.lllfrance.org/vous-informer/des-etudes/1390)
-- [Tire-lait : état des lieux réalisé par Katelijne Moreau, conseillère en lactation en 2019](https://docs.google.com/document/d/1-A3nEO5JV-1xuk5SS8xAaR_OVVwASG1rSE8fejcjM94/edit?usp=sharing)
-- [Du sein à la fourchette formation de 6 jours au Fraje](https://www.fraje.be/du-sein-a-la-fourchette)
+- [Dépliant de l’ONE](https://www.one.be/public/detailarticle/news/travailler-et-allaiter-c-est-possible/){:target="_blank"}
+- [Conservation du lait humain et ses propriétés](https://www.lllfrance.org/vous-informer/des-etudes/1390){:target="_blank"}
+- [Tire-lait : état des lieux réalisé par Katelijne Moreau, conseillère en lactation en 2019](https://docs.google.com/document/d/1-A3nEO5JV-1xuk5SS8xAaR_OVVwASG1rSE8fejcjM94/edit?usp=sharing){:target="_blank"}
+- [Du sein à la fourchette formation de 6 jours au Fraje](https://www.fraje.be/du-sein-a-la-fourchette){:target="_blank"}
 - [Les salles d’allaitement: guide pour les employeurs](https://www.unicef.org/media/73206/file/Breastfeeding-room-guide.pdf)
-- [ONEM : Feuille-info](https://www.onem.be/fr/documentation/feuille-info/t19#h2_5)
-- [CSC : pauses d’allaitement (secteur privé)](https://www.lacsc.be/vos-droits/travailler-dans-le-secteur-prive/maternite-naissance-et-adoption-et-soins-d-accueil/cong%C3%A9-et-pause-d%27allaitement)
-- [CSC : allaitement fiche pour les enseignants](https://www.lacsc.be/csc-enseignement/publications/fiches-pratiques/fp06-maternite)
+- [ONEM : Feuille-info](https://www.onem.be/fr/documentation/feuille-info/t19#h2_5){:target="_blank"}
+- [CSC : pauses d’allaitement (secteur privé)](https://www.lacsc.be/vos-droits/travailler-dans-le-secteur-prive/maternite-naissance-et-adoption-et-soins-d-accueil/cong%C3%A9-et-pause-d%27allaitement){:target="_blank"}
+- [CSC : allaitement fiche pour les enseignants](https://www.lacsc.be/csc-enseignement/publications/fiches-pratiques/fp06-maternite){:target="_blank"}

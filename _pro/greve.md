@@ -17,7 +17,7 @@ déshabituant progressivement du sein, pas du jour au lendemain et surtout jamai
 aussi “violente”.
 
 ![Refus du sein]({{ site.url }}{{ site.baseurl }}/assets/images/greve.png)
-*Source image: [lllfrance](https://www.lllfrance.org/vous-informer/votre-allaitement/surmonter-les-obstacles/895-le-bebe-qui-refuse-de-teter)*{: style="display:block;font-size:0.5em;"}
+*Source image: [lllfrance](https://www.lllfrance.org/vous-informer/votre-allaitement/surmonter-les-obstacles/895-le-bebe-qui-refuse-de-teter){:target="_blank"}*{: style="display:block;font-size:0.5em;"}
 
 Elle a différentes origines, il faut essayer d’en identifier les causes.
 

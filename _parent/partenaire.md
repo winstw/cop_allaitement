@@ -22,7 +22,7 @@ Tout au long de son développement, l’enfant grandit grâce à la découverte 
 Dès le désir d’enfant, le partenaire imagine et crée sa parentalité en fonction de son histoire personnelle. Il existe des groupes de parole réservés aux partenaires où ils peuvent s’exprimer librement, sans jugements, sans se soucier de l'inquiétude que leurs questionnements pourraient générer chez leurs compagnes. 
 
 
-![Interactions]({{ site.url }}{{ site.baseurl }}/assets/images/partenaire1.png){: style="float:right" } 
+![Interactions]({{ site.url }}{{ site.baseurl }}/assets/images/partenaire1.png){: style="float:right" }
 Durant la grossesse des **interactions** entre le partenaire et l'enfant s'opèrent à travers le toucher, la voix, les odeurs...De cette proximité sensorielle naît entre eux une relation privilégiée. 
 
 La qualité des échanges lors des réunions de préparation à la naissance et à l’allaitement ainsi que les discussions avec les professionnels peuvent faciliter l’implication et le niveau d’engagement du partenaire. Cela leur donne le sentiment de mieux soutenir leur compagne, d’être utiles et de trouver un équilibre dans la coparentalité.
@@ -30,7 +30,7 @@ La qualité des échanges lors des réunions de préparation à la naissance et 
 À la naissance, la rencontre se concrétise et les liens se tissent. La maman peut être submergée par ses émotions. Dans ces moments, le partenaire peut la soutenir. Nourrie d’affection, la maman trouvera force et confiance dans sa maternité et son allaitement.
 
 ![Papa Débutant]({{ site.url }}{{ site.baseurl }}/assets/images/partenaire2.png)
-*Repris sur : [babelio](https://www.babelio.com/livres/Pailles-Papa-debutant--Le-guide-que-tous-les-jeunes-peres/382256)*{: style="display:block;font-size:0.5em;"}
+*Repris sur : [babelio](https://www.babelio.com/livres/Pailles-Papa-debutant--Le-guide-que-tous-les-jeunes-peres/382256){:target="_blank"}*{: style="display:block;font-size:0.5em;"}
 
 
 Le rôle de parents s’installe : les premiers changes, le bain, l’habillage, les câlins, vont permettre au nouveau-né de s’adapter aux possibles “maladresses”. Petit à petit, chacun va apprendre l’un de l’autre.

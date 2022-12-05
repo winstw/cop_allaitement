@@ -38,6 +38,6 @@ Ne pas confondre sevrage naturel et grève de la tétée (cf. fiche “Grève de
 
 ---
 
-[^1]: Salinier-Rolland, C. (2014). L'allaitement long. Spirale, 72, 49-62. [https://doi.org/10.3917/spi.072.0049](https://doi.org/10.3917/spi.072.0049)
-[^2]: Le sevrage de l’allaitement. (2004). Paediatrics & Child Health, 9(4), 259–263. [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2720509/ ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2720509/)
-[^3]: Le sevrage de l’allaitement. (2004). Paediatrics & Child Health, 9(4), 259–263. [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2720509/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2720509/)
+[^1]: Salinier-Rolland, C. (2014). L'allaitement long. Spirale, 72, 49-62. [https://doi.org/10.3917/spi.072.0049](https://doi.org/10.3917/spi.072.0049){:target="_blank"}
+[^2]: Le sevrage de l’allaitement. (2004). Paediatrics & Child Health, 9(4), 259–263. [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2720509/ ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2720509/){:target="_blank"}
+[^3]: Le sevrage de l’allaitement. (2004). Paediatrics & Child Health, 9(4), 259–263. [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2720509/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2720509/){:target="_blank"}

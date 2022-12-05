@@ -50,14 +50,14 @@ Le lait maternel (600 à 800 ml) suffit comme apport liquide durant la journée,
 Une consultante en lactation reste disponible pour vous accompagner lors de cette période.
 
 Voici quelques exemples de tableaux de diversification alimentaire (types d’aliments, quantités et nombre de repas par jour) :
-- [Saint-luc - page 19](https://www.saintluc.be/sites/default/files/2020-09/petit-pierre-mange-de-bon-coeur.pdf  )
--	[Tableau : La diversification alimentaire jusqu'à 3 ans - mangerbouger.fr](https://drive.google.com/file/d/10z9U-4MWxQz8_FUcJvuBdgQfemTcP5jY/view?usp=sharing)
--	[La diversification alimentaire – menus type](https://www.etmamantudeviendras.com/2019/02/03/diversification-alimentaire-bebe/ )
--	[La diversification alimentaire - guide](https://lactaclic.fr/diversification-alimentaire )
+- [Saint-luc - page 19](https://www.saintluc.be/sites/default/files/2020-09/petit-pierre-mange-de-bon-coeur.pdf  ){:target="_blank"}
+-	[Tableau : La diversification alimentaire jusqu'à 3 ans - mangerbouger.fr](https://drive.google.com/file/d/10z9U-4MWxQz8_FUcJvuBdgQfemTcP5jY/view?usp=sharing){:target="_blank"}
+-	[La diversification alimentaire – menus type](https://www.etmamantudeviendras.com/2019/02/03/diversification-alimentaire-bebe/ ){:target="_blank"}
+-	[La diversification alimentaire - guide](https://lactaclic.fr/diversification-alimentaire ){:target="_blank"}
 
 Références: 
--	[Santé et allaitement maternel](http://www.santeallaitementmaternel.com)
--	[Politique nationale nutrition santé (PNNS) 2017-2021 : promouvoir l’allaitement maternel](https://www.mpedia.fr/art-tableau-diversification/)
--	[Les bébés à table](https://www.mongeneraliste.be/veiller-a-sa-sante/alimentation/alimentation-les-bebes-a-table/)
--	[Brochure ONE - De nouveaux aliments en douceur...](https://www.one.be/fileadmin/user_upload/siteone/PARENTS/Brochures/de-nouveaux-aliments-en-douceur-web.pdf)
--	[La DME](https://bebemangeseul.com/2019/07/26/aliments-securitaires-pour-les-6-9-mois-2/  )
+-	[Santé et allaitement maternel](http://www.santeallaitementmaternel.com){:target="_blank"}
+-	[Politique nationale nutrition santé (PNNS) 2017-2021 : promouvoir l’allaitement maternel](https://www.mpedia.fr/art-tableau-diversification/){:target="_blank"}
+-	[Les bébés à table](https://www.mongeneraliste.be/veiller-a-sa-sante/alimentation/alimentation-les-bebes-a-table/){:target="_blank"}
+-	[Brochure ONE - De nouveaux aliments en douceur...](https://www.one.be/fileadmin/user_upload/siteone/PARENTS/Brochures/de-nouveaux-aliments-en-douceur-web.pdf){:target="_blank"}
+-	[La DME](https://bebemangeseul.com/2019/07/26/aliments-securitaires-pour-les-6-9-mois-2/  ){:target="_blank"}
