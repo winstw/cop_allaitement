@@ -17,7 +17,7 @@
         <ul class="bullet">
           {% for child in nav.children %}
 		  {{current}}
-            <li><i class="timeline {%if child.url == page.url or page.categories contains child.category %}current{% endif %}">{{forloop.index}}</i><a href="{{ child.url | relative_url }}" {% if child.url == page.url or page.categories contains child.category %} class="active"{% endif %}>{{ child.title }}</a></li>
+            <li><a href="{{ child.url | relative_url }}" {% if child.url == page.url or page.categories contains child.category %} class="active"{% endif %}><i class="timeline {%if child.url == page.url or page.categories contains child.category %}current{% endif %}">{{forloop.index}}</i>{{ child.title }}</a></li>
           {% endfor %}
         </ul>
         {% endif %}
