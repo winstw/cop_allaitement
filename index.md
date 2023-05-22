@@ -11,7 +11,7 @@ Bienvenue,
 
 
 
-Ce site a été créé par la CoP Lactation, une Communauté de Pratique composée de professionnels de santé belges spécialisés en allaitement.
+Ce site a été créé par la CoP Lactation, une Communauté de Pratique composée de professionnels de santé belges spécialisés en allaitement, dans le cadre du projet Health CoP (financé par le FSE jusqu'en 2021 et par l'Aviq jusqu'en 2022).
 
 
 Les outils proposés (fiches, quiz, autoévaluations...) ont été réalisés dans le but d’harmoniser les pratiques et les propos autour de l’allaitement maternel. Ils concernent aussi bien la préparation à l’allaitement que le suivi et l’allaitement long.
