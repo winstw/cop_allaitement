@@ -18,7 +18,7 @@ let makeHandlerFor = (tag) => {
 return (event) => {
 	event.preventDefault();
 	fetch("https://api.countapi.xyz/hit/jallaite/" + tag)
-		.then(() => {window.location.href = event.target.href;});
+		.then(() => {window.location.href = event.target.href;}, () => {window.location.href = event.target.href;});
 	}
 }
 
