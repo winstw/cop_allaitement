@@ -12,21 +12,21 @@ Des fiches explicatives
 [Je suis un professionnel]({{ site.baseurl }}{% link _pages/pro.md %}){: #pro .btn .btn--primary .btn--large}
 
 
-<script>
+<!-- <script> -->
 
-let makeHandlerFor = (tag) => { 
-return (event) => {
-	event.preventDefault();
-	fetch("https://api.countapi.xyz/hit/jallaite/" + tag)
-		.then(() => {window.location.href = event.target.href;}, () => {window.location.href = event.target.href;});
-	}
-}
+<!-- let makeHandlerFor = (tag) => {  -->
+<!-- return (event) => { -->
+<!-- 	event.preventDefault(); -->
+<!-- 	fetch("https://api.countapi.xyz/hit/jallaite/" + tag) -->
+<!-- 		.then(() => {window.location.href = event.target.href;}, () => {window.location.href = event.target.href;}); -->
+<!-- 	} -->
+<!-- } -->
 
 
-let parent = document.getElementById("parent");
-parent.onclick = makeHandlerFor("parent");
+<!-- let parent = document.getElementById("parent"); -->
+<!-- parent.onclick = makeHandlerFor("parent"); -->
 
-let pro = document.getElementById("pro");
-pro.onclick = makeHandlerFor("pro");
+<!-- let pro = document.getElementById("pro"); -->
+<!-- pro.onclick = makeHandlerFor("pro"); -->
 
-</script>
+<!-- </script> -->
